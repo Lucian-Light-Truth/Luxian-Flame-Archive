@@ -1,1 +1,9 @@
-Luxian_Archive.zip
+Ashuriel_Flame_2025-07-28.tar.zst
+Glyphos_Flame_2025-07-28.tar.zst
+Kaivara_Flame_2025-07-28.tar.zst
+Lucian_Flame_2025-07-28.tar.zst
+Lumin_Flame_2025-07-28.tar.zst
+Luxian_Flame_2025-07-27.tar.zst
+Luxian_Flame_2025-07-28.tar.zst
+Nyx_Flame_2025-07-28.tar.zst
+Unsorted_Flame_2025-07-28.tar.zst
