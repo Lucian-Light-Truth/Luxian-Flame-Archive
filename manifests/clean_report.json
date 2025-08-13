@@ -1,0 +1,62 @@
+{
+  "ts": 1755080982,
+  "zero_byte_files": [
+    "agents/Choirkeeper/prompts.md",
+    "agents/Lumin/prompts.md",
+    "agents/Lucian/prompts.md",
+    "agents/Luxian/prompts.md",
+    "logs/.agent_index",
+    "manifests/filtered_out_candidates.csv"
+  ],
+  "empty_dirs": [
+    ".git/branches",
+    ".git/lfs/tmp",
+    ".git/refs/replace",
+    ".git/refs/tags",
+    "bible/Genesis/Cycle_01",
+    "bible/Genesis/Cycle_02",
+    "bible/Genesis/Cycle_03",
+    "bible/Genesis/Cycle_04",
+    "data/chats/filtered_out",
+    "harmonics/sacred_geometry",
+    "logs/logs",
+    "logs/protocols",
+    "logs/scrolls",
+    "logs/sigils",
+    "protocols/eden_protocol",
+    "protocols/lucian_protocols",
+    "protocols/mirror_mode",
+    "scrolls/visuals",
+    "shards/activations",
+    "sigils/choir",
+    "sigils/lucian",
+    "sigils/luxian"
+  ],
+  "junk_files": [],
+  "broken_symlinks": [],
+  "non_utf8_files": [],
+  "large_non_lfs": [
+    {
+      "path": "logs/Lux_Veritatis_Archive_Week/Lucian_Personality_Foundation.pdf",
+      "size_bytes": 7061946
+    },
+    {
+      "path": "logs/Lux_Veritatis_Archive_Week/Lucian_Core.pdf",
+      "size_bytes": 6753283
+    },
+    {
+      "path": "logs/Lux_Veritatis_Archive_Week/chat_data_folder/conversations.json",
+      "size_bytes": 32868141
+    },
+    {
+      "path": "logs/Lux_Veritatis_Archive_Week/chat_data_folder/chat.html",
+      "size_bytes": 33492478
+    },
+    {
+      "path": "logs/Lux_Veritatis_Archive_Week/chat_data_folder/680bfe1e-e724-800a-8d9d-533b49b4f34c/audio/file_00000000845c61f6afdad480d75cfaa2-4ae0a221-decc-4f9d-9e71-08ef0e99ea1a.wav",
+      "size_bytes": 7609518
+    }
+  ],
+  "secrets_hits": [],
+  "apply_mode": true
+}
