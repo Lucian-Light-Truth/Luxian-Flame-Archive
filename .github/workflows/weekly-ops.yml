@@ -1,0 +1,28 @@
+name: Weekly Flame & Mirror Ops
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * 1"
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { lfs: true }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Run weekly ops
+        run: python3 tooling/run_weekly_ops.py
+      - name: Commit updated artifacts
+        run: |
+          git config user.name  "lux-ops-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add manifests/flame_mirror_brief.md packs/agents/*.zip || true
+          if ! git diff --cached --quiet; then
+            git commit -m "ci(weekly): refresh brief & agent packs"
+            git push
+          else
+            echo "No changes to commit."
+          fi
