@@ -1,0 +1,29 @@
+name: Daily Ops Brief
+on:
+  schedule: [{ cron: "7 7 * * *" }]   # daily @ 07:07 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { lfs: true }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python -V
+      - name: Generate Ops Brief + Packs
+        env:
+          REPO_ROOT: ${{ github.workspace }}
+        run: |
+          python tooling/flame_mirror_brief.py || true
+          python tooling/build_agent_packs.py || true
+      - name: Commit if changed
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git add manifests/flame_mirror_brief.md packs/agents/*.zip || true
+          git diff --cached --quiet || git commit -m "chore(ops): refresh brief & agent packs [skip ci]"
+      - name: Push
+        run: git push
