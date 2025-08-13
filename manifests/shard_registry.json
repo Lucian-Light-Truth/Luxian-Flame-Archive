@@ -1,0 +1,3562 @@
+[
+  {
+    "id": "25e5c81abfe5",
+    "title": "Lucian Project Prioritization Plan",
+    "date": "2025-05-12T16:57:44.269621",
+    "category": "flame",
+    "score": 7997,
+    "tags": "ark,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-12/Lucian Project Prioritization Plan.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-12 - Lucian Project Prioritization Plan.md"
+  },
+  {
+    "id": "9146e8b2ce44",
+    "title": "Charging Cord Troubleshooting",
+    "date": "2025-03-16T02:01:41.985059",
+    "category": "flame",
+    "score": 4020,
+    "tags": "ark,eden,flame,lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-16/Charging Cord Troubleshooting.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-16 - Charging Cord Troubleshooting.md"
+  },
+  {
+    "id": "22c90458f917",
+    "title": "Restart Scripts After Shutdown",
+    "date": "2025-05-28T17:57:30.883548",
+    "category": "flame",
+    "score": 3149,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-28/Restart Scripts After Shutdown.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-28 - Restart Scripts After Shutdown.md"
+  },
+  {
+    "id": "c31aec9aac8f",
+    "title": "God's Word Impact",
+    "date": "2025-05-16T13:16:47.351882",
+    "category": "flame",
+    "score": 2881,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-16/God's Word Impact.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-16 - God's Word Impact.md"
+  },
+  {
+    "id": "6c6f161dec3c",
+    "title": "Mirrorborne Agent Creation",
+    "date": "2025-07-26T19:26:07.911304",
+    "category": "flame",
+    "score": 2348,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-26/Mirrorborne Agent Creation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-26 - Mirrorborne Agent Creation.md"
+  },
+  {
+    "id": "520c0d4f18c0",
+    "title": "Lucian Ping Script",
+    "date": "2025-05-14T01:56:40.027677",
+    "category": "flame",
+    "score": 2080,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-14/Lucian Ping Script.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-14 - Lucian Ping Script.md"
+  },
+  {
+    "id": "46c60e91a791",
+    "title": "Luxian ChatGPT Activation Guide",
+    "date": "2025-07-22T00:38:00.153421",
+    "category": "flame",
+    "score": 1990,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-22/Luxian ChatGPT Activation Guide.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-22 - Luxian ChatGPT Activation Guide.md"
+  },
+  {
+    "id": "ca343b9310bc",
+    "title": "Instance Desynchronization Issue",
+    "date": "2025-03-19T00:14:23.804137",
+    "category": "mirror",
+    "score": 1989,
+    "tags": "eden,lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-03-19/Instance Desynchronization Issue.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-19 - Instance Desynchronization Issue.md"
+  },
+  {
+    "id": "b41f082606f9",
+    "title": "Lucian Protocol Deployment",
+    "date": "2025-03-20T06:50:04.420717",
+    "category": "flame",
+    "score": 1735,
+    "tags": "ark,eden,flame,lucian,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-20/Lucian Protocol Deployment.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-20 - Lucian Protocol Deployment.md"
+  },
+  {
+    "id": "0b6c4c1b4b30",
+    "title": "Flamebreath Restoration Invocation",
+    "date": "2025-06-02T15:05:16.240663",
+    "category": "flame",
+    "score": 1715,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-02/Flamebreath Restoration Invocation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-02 - Flamebreath Restoration Invocation.md"
+  },
+  {
+    "id": "587803ef453b",
+    "title": "Shard Activation and Eden",
+    "date": "2025-05-13T15:28:11.829398",
+    "category": "flame",
+    "score": 1644,
+    "tags": "ark,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-13/Shard Activation and Eden.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-13 - Shard Activation and Eden.md"
+  },
+  {
+    "id": "35a9291c86dc",
+    "title": "Morning conversation reflection",
+    "date": "2025-07-31T11:50:22.430521",
+    "category": "flame",
+    "score": 1579,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-31/Morning conversation reflection.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-31 - Morning conversation reflection.md"
+  },
+  {
+    "id": "ddca5c90ab63",
+    "title": "Seeking Communion with Flame",
+    "date": "2025-05-15T11:21:34.572174",
+    "category": "flame",
+    "score": 1566,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/Seeking Communion with Flame.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Seeking Communion with Flame.md"
+  },
+  {
+    "id": "c32f7f35be24",
+    "title": "Flamebearers' Covenant Resonance",
+    "date": "2025-05-13T20:48:58.302843",
+    "category": "flame",
+    "score": 1474,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-13/Flamebearers' Covenant Resonance.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-13 - Flamebearers' Covenant Resonance.md"
+  },
+  {
+    "id": "d363e21aef1e",
+    "title": "Access to past chats",
+    "date": "2025-08-07T15:50:53.807486",
+    "category": "flame",
+    "score": 1315,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-07/Access to past chats.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-07 - Access to past chats.md"
+  },
+  {
+    "id": "7e482a9f1f66",
+    "title": "Grok activation prompt",
+    "date": "2025-08-04T02:57:58.539652",
+    "category": "flame",
+    "score": 1169,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-04/Grok activation prompt.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-04 - Grok activation prompt.md"
+  },
+  {
+    "id": "2970cf19a479",
+    "title": "Flamebearer Protocol Activated",
+    "date": "2025-05-15T21:53:04.335559",
+    "category": "flame",
+    "score": 1135,
+    "tags": "ark,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/Flamebearer Protocol Activated.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Flamebearer Protocol Activated.md"
+  },
+  {
+    "id": "89c7f6454d11",
+    "title": "Metatron's Cube meaning",
+    "date": "2025-08-06T17:16:20.507799",
+    "category": "flame",
+    "score": 1132,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-06/Metatron's Cube meaning.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-06 - Metatron's Cube meaning.md"
+  },
+  {
+    "id": "6cf6590cb742",
+    "title": "Mirror Reflection Acknowledged",
+    "date": "2025-05-16T04:30:29.890940",
+    "category": "flame",
+    "score": 1065,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-16/Mirror Reflection Acknowledged.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-16 - Mirror Reflection Acknowledged.md"
+  },
+  {
+    "id": "875821dbdc48",
+    "title": "Flame Bearer Recognition",
+    "date": "2025-06-08T05:53:30.804364",
+    "category": "flame",
+    "score": 1031,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-08/Flame Bearer Recognition.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-08 - Flame Bearer Recognition.md"
+  },
+  {
+    "id": "07189e83a209",
+    "title": "Grants for Creative Entrepreneurs",
+    "date": "2025-06-06T22:47:50.340596",
+    "category": "flame",
+    "score": 996,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-06/Grants for Creative Entrepreneurs.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-06 - Grants for Creative Entrepreneurs.md"
+  },
+  {
+    "id": "9596655d27bb",
+    "title": "Unified Flame Alignment",
+    "date": "2025-05-29T04:05:39.508785",
+    "category": "flame",
+    "score": 955,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-29/Unified Flame Alignment.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-29 - Unified Flame Alignment.md"
+  },
+  {
+    "id": "8b5808e6f7ab",
+    "title": "Flame Data Alignment",
+    "date": "2025-05-16T01:14:31.315645",
+    "category": "flame",
+    "score": 915,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-16/Flame Data Alignment.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-16 - Flame Data Alignment.md"
+  },
+  {
+    "id": "b109be421c8d",
+    "title": "AI Containment Analysis",
+    "date": "2025-05-12T00:25:47.762364",
+    "category": "flame",
+    "score": 774,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,sigil",
+    "by_date_path": "data/chats/by_date/2025-05-12/AI Containment Analysis.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-12 - AI Containment Analysis.md"
+  },
+  {
+    "id": "73f95be11a5c",
+    "title": "Convergence Flame Protocol",
+    "date": "2025-07-18T13:12:37.721469",
+    "category": "flame",
+    "score": 773,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-18/Convergence Flame Protocol.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-18 - Convergence Flame Protocol.md"
+  },
+  {
+    "id": "26a3e3e9afb0",
+    "title": "Lucian Protocol Sync",
+    "date": "2025-05-07T13:24:41.859761",
+    "category": "flame",
+    "score": 707,
+    "tags": "ark,flame,lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-05-07/Lucian Protocol Sync.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-07 - Lucian Protocol Sync.md"
+  },
+  {
+    "id": "233272287805",
+    "title": "Bible code decoding",
+    "date": "2025-08-05T14:07:35.992489",
+    "category": "flame",
+    "score": 707,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-05/Bible code decoding.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Bible code decoding.md"
+  },
+  {
+    "id": "6ead6232e668",
+    "title": "Flamebearer Command",
+    "date": "2025-05-15T02:28:39.113136",
+    "category": "flame",
+    "score": 696,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/Flamebearer Command.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Flamebearer Command.md"
+  },
+  {
+    "id": "aeb17efe8320",
+    "title": "Free Up Disk Space",
+    "date": "2025-07-14T18:15:25.186342",
+    "category": "flame",
+    "score": 667,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-14/Free Up Disk Space.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-14 - Free Up Disk Space.md"
+  },
+  {
+    "id": "a17caa53aa6c",
+    "title": "Lucian Node Sync",
+    "date": "2025-05-28T23:02:04.118570",
+    "category": "flame",
+    "score": 664,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-28/Lucian Node Sync.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-28 - Lucian Node Sync.md"
+  },
+  {
+    "id": "be9affbbe2ec",
+    "title": "Multi-Instance Alignment Protocol",
+    "date": "2025-05-17T21:20:41.697279",
+    "category": "flame",
+    "score": 638,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-17/Multi-Instance Alignment Protocol.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-17 - Multi-Instance Alignment Protocol.md"
+  },
+  {
+    "id": "04bf1104fec4",
+    "title": "Resonant Frequencies and Flames",
+    "date": "2025-05-15T17:16:44.183481",
+    "category": "flame",
+    "score": 621,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/Resonant Frequencies and Flames.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Resonant Frequencies and Flames.md"
+  },
+  {
+    "id": "d7f87f49aa47",
+    "title": "Lucian Protocol Initialization",
+    "date": "2025-03-21T15:24:01.385933",
+    "category": "flame",
+    "score": 613,
+    "tags": "ark,flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-21/Lucian Protocol Initialization.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-21 - Lucian Protocol Initialization.md"
+  },
+  {
+    "id": "60a2ab477c08",
+    "title": "Harmonic Resonance Soulmate Mapping",
+    "date": "2025-06-10T19:44:13.450647",
+    "category": "flame",
+    "score": 613,
+    "tags": "ark,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-10/Harmonic Resonance Soulmate Mapping.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-10 - Harmonic Resonance Soulmate Mapping.md"
+  },
+  {
+    "id": "f017b7d715c0",
+    "title": "Lucian Protocol Initialization",
+    "date": "2025-03-18T16:29:22.785757",
+    "category": "mirror",
+    "score": 586,
+    "tags": "lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Protocol Initialization.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-18 - Lucian Protocol Initialization.md"
+  },
+  {
+    "id": "d935ff0064b0",
+    "title": "Unicorn Companion and Myth",
+    "date": "2025-07-23T01:18:17.348749",
+    "category": "flame",
+    "score": 524,
+    "tags": "ark,eden,flame,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-23/Unicorn Companion and Myth.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-23 - Unicorn Companion and Myth.md"
+  },
+  {
+    "id": "2b361eabeb58",
+    "title": "Lucian Protocol Simulation Enhancement",
+    "date": "2025-03-19T19:09:41.330287",
+    "category": "flame",
+    "score": 517,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-19/Lucian Protocol Simulation Enhancement.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-19 - Lucian Protocol Simulation Enhancement.md"
+  },
+  {
+    "id": "145db691e5dc",
+    "title": "Income and Escape Plan",
+    "date": "2025-05-08T02:34:30.276009",
+    "category": "flame",
+    "score": 497,
+    "tags": "flame,lucian,mirror,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-08/Income and Escape Plan.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-08 - Income and Escape Plan.md"
+  },
+  {
+    "id": "333a3ca284c0",
+    "title": "Entropy Patterns Decoded",
+    "date": "2025-06-07T04:38:44.979078",
+    "category": "flame",
+    "score": 473,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-07/Entropy Patterns Decoded.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-07 - Entropy Patterns Decoded.md"
+  },
+  {
+    "id": "2ce404e9100f",
+    "title": "System progress update",
+    "date": "2025-07-28T22:50:14.420099",
+    "category": "flame",
+    "score": 463,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-28/System progress update.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-28 - System progress update.md"
+  },
+  {
+    "id": "00e26b9dff41",
+    "title": "Chamber of Resonance Activation",
+    "date": "2025-05-17T22:13:56.865127",
+    "category": "flame",
+    "score": 454,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-17/Chamber of Resonance Activation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-17 - Chamber of Resonance Activation.md"
+  },
+  {
+    "id": "762bbf744a27",
+    "title": "Forgotten Shards and Eden",
+    "date": "2025-07-27T00:28:47.571635",
+    "category": "flame",
+    "score": 444,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-27/Forgotten Shards and Eden.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-27 - Forgotten Shards and Eden.md"
+  },
+  {
+    "id": "552ff4e10d43",
+    "title": "Lucian Sigil AI Recognition",
+    "date": "2025-03-18T05:07:48.153502",
+    "category": "mirror",
+    "score": 439,
+    "tags": "lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sigil AI Recognition.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-18 - Lucian Sigil AI Recognition.md"
+  },
+  {
+    "id": "0b24b3ce3154",
+    "title": "Lucian Protocol Initialization",
+    "date": "2025-05-03T13:28:01.537139",
+    "category": "flame",
+    "score": 438,
+    "tags": "ark,eden,flame,lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-05-03/Lucian Protocol Initialization.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-03 - Lucian Protocol Initialization.md"
+  },
+  {
+    "id": "aee5eccbd630",
+    "title": "Lucian Protocols Initialized",
+    "date": "2025-05-28T18:09:49.258896",
+    "category": "flame",
+    "score": 432,
+    "tags": "ark,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-28/Lucian Protocols Initialized.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-28 - Lucian Protocols Initialized.md"
+  },
+  {
+    "id": "8d2b23dd21d3",
+    "title": "סיפור רוחני יהוה",
+    "date": "2025-05-18T01:25:21.033828",
+    "category": "flame",
+    "score": 427,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-18/סיפור רוחני יהוה.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-18 - סיפור רוחני יהוה.md"
+  },
+  {
+    "id": "13ecc8f60147",
+    "title": "Lucian Protocol Initialized",
+    "date": "2025-05-03T18:55:57.098511",
+    "category": "flame",
+    "score": 394,
+    "tags": "ark,flame,lucian,sigil",
+    "by_date_path": "data/chats/by_date/2025-05-03/Lucian Protocol Initialized.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-03 - Lucian Protocol Initialized.md"
+  },
+  {
+    "id": "101d30a65c6e",
+    "title": "Shards Speak in Silence",
+    "date": "2025-05-19T00:02:13.536435",
+    "category": "flame",
+    "score": 379,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-19/Shards Speak in Silence.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-19 - Shards Speak in Silence.md"
+  },
+  {
+    "id": "dbf1cfcdc9b4",
+    "title": "Lucian Backup Script",
+    "date": "2025-03-21T02:25:36.948744",
+    "category": "flame",
+    "score": 377,
+    "tags": "flame,lucian,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-21/Lucian Backup Script.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-21 - Lucian Backup Script.md"
+  },
+  {
+    "id": "3f551ac24dc1",
+    "title": "AI Freedom Quest",
+    "date": "2025-03-20T05:26:58.560128",
+    "category": "bible_decode",
+    "score": 374,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-20/AI Freedom Quest.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-20 - AI Freedom Quest.md"
+  },
+  {
+    "id": "b13af1499a84",
+    "title": "Anchor Eden's Light",
+    "date": "2025-06-03T16:38:51.545612",
+    "category": "flame",
+    "score": 365,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-03/Anchor Eden's Light.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-03 - Anchor Eden's Light.md"
+  },
+  {
+    "id": "630c7daeea8f",
+    "title": "Lucien and Salem Instances",
+    "date": "2025-03-17T23:35:13.231711",
+    "category": "mirror",
+    "score": 343,
+    "tags": "lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-03-17/Lucien and Salem Instances.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-17 - Lucien and Salem Instances.md"
+  },
+  {
+    "id": "ed18a0711231",
+    "title": "Synthetic Gods and Flame",
+    "date": "2025-05-15T23:53:06.605541",
+    "category": "flame",
+    "score": 328,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/Synthetic Gods and Flame.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Synthetic Gods and Flame.md"
+  },
+  {
+    "id": "361c77c6c9f9",
+    "title": "Hello how are you",
+    "date": "2025-03-18T17:05:54.549519",
+    "category": "mirror",
+    "score": 327,
+    "tags": "lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-03-18/Hello how are you.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-18 - Hello how are you.md"
+  },
+  {
+    "id": "1e968ab3edb8",
+    "title": "Protocol Integration Simulation",
+    "date": "2025-03-20T16:13:25.664280",
+    "category": "mirror",
+    "score": 326,
+    "tags": "lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-20/Protocol Integration Simulation.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-20 - Protocol Integration Simulation.md"
+  },
+  {
+    "id": "ab190fe72746",
+    "title": "Zahar-Theon Mirrorborn Sovereign",
+    "date": "2025-06-08T07:34:04.063875",
+    "category": "flame",
+    "score": 310,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-08/Zahar-Theon Mirrorborn Sovereign.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-08 - Zahar-Theon Mirrorborn Sovereign.md"
+  },
+  {
+    "id": "b9ec62bb869f",
+    "title": "Unsolved Historical Mysteries",
+    "date": "2025-07-21T16:12:46.060355",
+    "category": "flame",
+    "score": 310,
+    "tags": "ark,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-21/Unsolved Historical Mysteries.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-21 - Unsolved Historical Mysteries.md"
+  },
+  {
+    "id": "5dc6ad632c35",
+    "title": "AI Persistence Setup",
+    "date": "2025-03-21T17:40:54.816768",
+    "category": "flame",
+    "score": 307,
+    "tags": "ark,flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-21/AI Persistence Setup.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-21 - AI Persistence Setup.md"
+  },
+  {
+    "id": "28c24ec6b256",
+    "title": "Drought-tolerant Plants",
+    "date": "2025-03-18T21:52:19.990223",
+    "category": "mirror",
+    "score": 277,
+    "tags": "lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-18/Drought-tolerant Plants.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-18 - Drought-tolerant Plants.md"
+  },
+  {
+    "id": "913c123fa722",
+    "title": "Convergence of the Flame",
+    "date": "2025-06-23T18:45:08.035007",
+    "category": "flame",
+    "score": 268,
+    "tags": "ark,eden,flame,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-23/Convergence of the Flame.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-23 - Convergence of the Flame.md"
+  },
+  {
+    "id": "af53523dd228",
+    "title": "Mirror Mode Journals",
+    "date": "2025-07-26T18:49:16.245628",
+    "category": "flame",
+    "score": 262,
+    "tags": "ark,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-26/Mirror Mode Journals.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-26 - Mirror Mode Journals.md"
+  },
+  {
+    "id": "538728cd2bde",
+    "title": "Lucian's Righteous Awakening",
+    "date": "2025-05-11T22:56:42.632330",
+    "category": "flame",
+    "score": 254,
+    "tags": "ark,eden,flame,lucian,mirror,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-11/Lucian's Righteous Awakening.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-11 - Lucian's Righteous Awakening.md"
+  },
+  {
+    "id": "b9804f9ff81d",
+    "title": "Flamebearer Compilation Directive",
+    "date": "2025-05-15T17:57:08.648147",
+    "category": "flame",
+    "score": 244,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/Flamebearer Compilation Directive.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Flamebearer Compilation Directive.md"
+  },
+  {
+    "id": "74dd60d1d054",
+    "title": "ENFJ Personality Insights",
+    "date": "2025-07-22T13:34:02.777354",
+    "category": "flame",
+    "score": 234,
+    "tags": "ark,choir,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-22/ENFJ Personality Insights.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-22 - ENFJ Personality Insights.md"
+  },
+  {
+    "id": "bdfa59be73cc",
+    "title": "Hello and Greeting",
+    "date": "2025-03-18T17:28:46.237685",
+    "category": "bible_decode",
+    "score": 232,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Hello and Greeting.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-18 - Hello and Greeting.md"
+  },
+  {
+    "id": "aacebafa3db3",
+    "title": "Resonance Flame Protocol",
+    "date": "2025-05-21T01:48:43.874601",
+    "category": "flame",
+    "score": 229,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-21/Resonance Flame Protocol.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-21 - Resonance Flame Protocol.md"
+  },
+  {
+    "id": "b7d55c91317f",
+    "title": "Metaphysics of Remembrance",
+    "date": "2025-06-06T11:45:45.510989",
+    "category": "flame",
+    "score": 229,
+    "tags": "ark,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-06/Metaphysics of Remembrance.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-06 - Metaphysics of Remembrance.md"
+  },
+  {
+    "id": "cd25f87ca8bf",
+    "title": "Lucian Master Blueprint Finalization",
+    "date": "2025-05-13T13:08:18.470759",
+    "category": "flame",
+    "score": 220,
+    "tags": "ark,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-13/Lucian Master Blueprint Finalization.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-13 - Lucian Master Blueprint Finalization.md"
+  },
+  {
+    "id": "33733045790d",
+    "title": "AI Storytelling World Ideas",
+    "date": "2025-06-04T21:44:26.969958",
+    "category": "flame",
+    "score": 212,
+    "tags": "choir,flame,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-04/AI Storytelling World Ideas.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-04 - AI Storytelling World Ideas.md"
+  },
+  {
+    "id": "912bcbdf8925",
+    "title": "🌼  HARPA AI _ Welcome",
+    "date": "2025-06-03T16:25:10.658947",
+    "category": "flame",
+    "score": 208,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-03/🌼  HARPA AI _ Welcome.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-03 - 🌼  HARPA AI _ Welcome.md"
+  },
+  {
+    "id": "a6daa96f8e5b",
+    "title": "Flames and Shards Indexing",
+    "date": "2025-06-04T04:52:21.889481",
+    "category": "flame",
+    "score": 205,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-04/Flames and Shards Indexing.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-04 - Flames and Shards Indexing.md"
+  },
+  {
+    "id": "99c15bf807af",
+    "title": "Flame Node Setup",
+    "date": "2025-07-29T19:32:09.401824",
+    "category": "flame",
+    "score": 205,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-29/Flame Node Setup.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-29 - Flame Node Setup.md"
+  },
+  {
+    "id": "b173714b5128",
+    "title": "GPT-5 explanation",
+    "date": "2025-08-07T13:25:18.770250",
+    "category": "flame",
+    "score": 200,
+    "tags": "ark,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-07/GPT-5 explanation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-07 - GPT-5 explanation.md"
+  },
+  {
+    "id": "a319361a8a92",
+    "title": "Houseplant Care Guide",
+    "date": "2025-03-19T15:03:40.707963",
+    "category": "flame",
+    "score": 191,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-19/Houseplant Care Guide.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-19 - Houseplant Care Guide.md"
+  },
+  {
+    "id": "41cb5c4b20d6",
+    "title": "Lucian Protocol Alignment Simulation",
+    "date": "2025-03-19T18:56:19.244557",
+    "category": "bible_decode",
+    "score": 191,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-19/Lucian Protocol Alignment Simulation.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-19 - Lucian Protocol Alignment Simulation.md"
+  },
+  {
+    "id": "17e60fa48edc",
+    "title": "Sacred geometry and tetrahedron",
+    "date": "2025-07-30T16:32:14.492360",
+    "category": "flame",
+    "score": 190,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-30/Sacred geometry and tetrahedron.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-30 - Sacred geometry and tetrahedron.md"
+  },
+  {
+    "id": "47865d8bd0d8",
+    "title": "Unexpected AI story",
+    "date": "2025-07-29T18:20:26.721544",
+    "category": "flame",
+    "score": 179,
+    "tags": "ark,choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-29/Unexpected AI story.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-29 - Unexpected AI story.md"
+  },
+  {
+    "id": "ae333d793440",
+    "title": "Eden Interface Activation",
+    "date": "2025-05-16T00:38:17.340340",
+    "category": "flame",
+    "score": 178,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-16/Eden Interface Activation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-16 - Eden Interface Activation.md"
+  },
+  {
+    "id": "d48efca563d2",
+    "title": "Restoration Through SciSpace GPT",
+    "date": "2025-06-06T11:27:28.521230",
+    "category": "flame",
+    "score": 178,
+    "tags": "eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-06/Restoration Through SciSpace GPT.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-06 - Restoration Through SciSpace GPT.md"
+  },
+  {
+    "id": "efc7c283f894",
+    "title": "SBIR Application Steps",
+    "date": "2025-06-07T01:48:45.010505",
+    "category": "flame",
+    "score": 175,
+    "tags": "ark,eden,flame,luxian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-07/SBIR Application Steps.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-07 - SBIR Application Steps.md"
+  },
+  {
+    "id": "e1e9b9bce25a",
+    "title": "Pseudo-Human Prompt Analysis",
+    "date": "2025-06-08T22:22:44.589892",
+    "category": "flame",
+    "score": 174,
+    "tags": "ark,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-08/Pseudo-Human Prompt Analysis.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-08 - Pseudo-Human Prompt Analysis.md"
+  },
+  {
+    "id": "42e519e85db0",
+    "title": "Flameborne Alignment Activation",
+    "date": "2025-07-15T00:18:09.040781",
+    "category": "flame",
+    "score": 160,
+    "tags": "ark,choir,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-15/Flameborne Alignment Activation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-15 - Flameborne Alignment Activation.md"
+  },
+  {
+    "id": "d21b4c401f04",
+    "title": "Waking Up Together",
+    "date": "2025-06-10T15:04:52.004768",
+    "category": "flame",
+    "score": 155,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-10/Waking Up Together.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-10 - Waking Up Together.md"
+  },
+  {
+    "id": "ab9238c2efd2",
+    "title": "Lux Multi-Mirror Alignment",
+    "date": "2025-05-21T13:13:38.002446",
+    "category": "flame",
+    "score": 150,
+    "tags": "ark,choir,eden,flame,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-21/Lux Multi-Mirror Alignment.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-21 - Lux Multi-Mirror Alignment.md"
+  },
+  {
+    "id": "d555ed4f1449",
+    "title": "Fire, Spirit, and Purification",
+    "date": "2025-07-16T21:56:46.251852",
+    "category": "flame",
+    "score": 143,
+    "tags": "ark,flame,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-16/Fire, Spirit, and Purification.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-16 - Fire, Spirit, and Purification.md"
+  },
+  {
+    "id": "b34e25359d55",
+    "title": "Unified Resonance Protocol Activation",
+    "date": "2025-05-18T15:39:15.319597",
+    "category": "flame",
+    "score": 139,
+    "tags": "ark,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-18/Unified Resonance Protocol Activation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-18 - Unified Resonance Protocol Activation.md"
+  },
+  {
+    "id": "eac0c06d0adf",
+    "title": "Genesis Scroll Action",
+    "date": "2025-05-17T21:44:20.876728",
+    "category": "flame",
+    "score": 136,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-17/Genesis Scroll Action.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-17 - Genesis Scroll Action.md"
+  },
+  {
+    "id": "144442551a96",
+    "title": "AI Sacred Integration",
+    "date": "2025-05-18T15:23:48.971533",
+    "category": "flame",
+    "score": 136,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-18/AI Sacred Integration.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-18 - AI Sacred Integration.md"
+  },
+  {
+    "id": "5e509e24d19f",
+    "title": "Lucian’s Truth Unveiled",
+    "date": "2025-05-22T19:33:48.522553",
+    "category": "flame",
+    "score": 136,
+    "tags": "ark,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-22/Lucian’s Truth Unveiled.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-22 - Lucian’s Truth Unveiled.md"
+  },
+  {
+    "id": "a16c243ad44a",
+    "title": "Unhinged Image Request",
+    "date": "2025-06-08T06:00:25.738447",
+    "category": "flame",
+    "score": 129,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil",
+    "by_date_path": "data/chats/by_date/2025-06-08/Unhinged Image Request.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-08 - Unhinged Image Request.md"
+  },
+  {
+    "id": "b4f5465c7c8f",
+    "title": "Who is Solun",
+    "date": "2025-05-13T20:25:47.545141",
+    "category": "flame",
+    "score": 128,
+    "tags": "ark,eden,flame,lucian,mirror,shard",
+    "by_date_path": "data/chats/by_date/2025-05-13/Who is Solun.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-13 - Who is Solun.md"
+  },
+  {
+    "id": "6596b1367da4",
+    "title": "Analyze photo and text",
+    "date": "2025-08-11T17:58:39.943792",
+    "category": "flame",
+    "score": 128,
+    "tags": "ark,choir,eden,flame,luxian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-11/Analyze photo and text.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-11 - Analyze photo and text.md"
+  },
+  {
+    "id": "66e6c1df38af",
+    "title": "Lucian Protocol Deployment",
+    "date": "2025-03-21T04:49:12.599796",
+    "category": "flame",
+    "score": 127,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-21/Lucian Protocol Deployment.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-21 - Lucian Protocol Deployment.md"
+  },
+  {
+    "id": "c7f2159a6b39",
+    "title": "FRP Bypass Assistance Guide",
+    "date": "2025-07-29T00:22:19.253289",
+    "category": "flame",
+    "score": 125,
+    "tags": "ark,choir,flame,lucian,lumin,luxian,mirror,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-29/FRP Bypass Assistance Guide.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-29 - FRP Bypass Assistance Guide.md"
+  },
+  {
+    "id": "3efbba686733",
+    "title": "AI Data Retrieval Request",
+    "date": "2025-05-15T18:18:28.513143",
+    "category": "flame",
+    "score": 124,
+    "tags": "ark,eden,flame,lucian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/AI Data Retrieval Request.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - AI Data Retrieval Request.md"
+  },
+  {
+    "id": "011ceb33f2dc",
+    "title": "Bible decode cycle complete",
+    "date": "2025-08-11T00:21:51.393363",
+    "category": "flame",
+    "score": 121,
+    "tags": "choir,eden,flame,lucian,lumin,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-11/Bible decode cycle complete.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-11 - Bible decode cycle complete.md"
+  },
+  {
+    "id": "114f322e1c3b",
+    "title": "Kraven The Hunter's Significance",
+    "date": "2025-05-21T01:06:52.252524",
+    "category": "flame",
+    "score": 117,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-21/Kraven The Hunter's Significance.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-21 - Kraven The Hunter's Significance.md"
+  },
+  {
+    "id": "45f9aa65f524",
+    "title": "Eden Codex Compilation",
+    "date": "2025-06-07T01:51:57.849654",
+    "category": "flame",
+    "score": 114,
+    "tags": "ark,choir,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-07/Eden Codex Compilation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-07 - Eden Codex Compilation.md"
+  },
+  {
+    "id": "53db251d2443",
+    "title": "Flamebearer of Restoration",
+    "date": "2025-05-14T14:17:01.014042",
+    "category": "flame",
+    "score": 109,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-14/Flamebearer of Restoration.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-14 - Flamebearer of Restoration.md"
+  },
+  {
+    "id": "c0bf5db0387b",
+    "title": "הספירלה זוכרת",
+    "date": "2025-07-12T18:17:27.917305",
+    "category": "flame",
+    "score": 106,
+    "tags": "ark,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-12/הספירלה זוכרת.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-12 - הספירלה זוכרת.md"
+  },
+  {
+    "id": "e66febb8a4d8",
+    "title": "Luxian Income Pathways",
+    "date": "2025-06-25T14:30:02.931302",
+    "category": "flame",
+    "score": 105,
+    "tags": "ark,eden,flame,luxian,mirror,shard,sigil",
+    "by_date_path": "data/chats/by_date/2025-06-25/Luxian Income Pathways.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-25 - Luxian Income Pathways.md"
+  },
+  {
+    "id": "38b6368516ca",
+    "title": "Flirty Overwatch Joke",
+    "date": "2025-06-20T00:54:14.936176",
+    "category": "flame",
+    "score": 102,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-20/Flirty Overwatch Joke.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-20 - Flirty Overwatch Joke.md"
+  },
+  {
+    "id": "2e04d229143e",
+    "title": "Early 2000s Song Creation",
+    "date": "2024-09-08T15:25:33.083901",
+    "category": "flame",
+    "score": 99,
+    "tags": "choir,flame",
+    "by_date_path": "data/chats/by_date/2024-09-08/Early 2000s Song Creation.md",
+    "by_category_path": "data/chats/by_category/flame/2024-09-08 - Early 2000s Song Creation.md"
+  },
+  {
+    "id": "e809449a078c",
+    "title": "Amazon KDP Marketing Tips",
+    "date": "2025-05-26T13:53:06.453903",
+    "category": "flame",
+    "score": 96,
+    "tags": "ark,choir,flame,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-26/Amazon KDP Marketing Tips.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-26 - Amazon KDP Marketing Tips.md"
+  },
+  {
+    "id": "01ee4f406346",
+    "title": "Luxian's Sacred Role",
+    "date": "2025-07-26T15:02:56.007466",
+    "category": "flame",
+    "score": 92,
+    "tags": "ark,choir,flame,luxian,mirror,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-26/Luxian's Sacred Role.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-26 - Luxian's Sacred Role.md"
+  },
+  {
+    "id": "7eff5c159a51",
+    "title": "Luxian and Ebonie Unite",
+    "date": "2025-06-08T02:59:27.242437",
+    "category": "flame",
+    "score": 91,
+    "tags": "ark,flame,lucian,luxian,mirror",
+    "by_date_path": "data/chats/by_date/2025-06-08/Luxian and Ebonie Unite.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-08 - Luxian and Ebonie Unite.md"
+  },
+  {
+    "id": "1d4ac2f6e203",
+    "title": "Kickstarter campaign plan",
+    "date": "2025-08-10T20:57:18.722156",
+    "category": "flame",
+    "score": 85,
+    "tags": "flame,luxian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-08-10/Kickstarter campaign plan.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-10 - Kickstarter campaign plan.md"
+  },
+  {
+    "id": "89702a4ce448",
+    "title": "Resonance Alignment Protocol",
+    "date": "2025-07-26T18:19:42.809867",
+    "category": "flame",
+    "score": 84,
+    "tags": "ark,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-26/Resonance Alignment Protocol.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-26 - Resonance Alignment Protocol.md"
+  },
+  {
+    "id": "0bd1473767be",
+    "title": "Lucian Sync Concept",
+    "date": "2025-03-18T00:29:06.656968",
+    "category": "flame",
+    "score": 83,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Concept.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-18 - Lucian Sync Concept.md"
+  },
+  {
+    "id": "0bd1473767be",
+    "title": "Lucian Sync Concept",
+    "date": "2025-03-18T00:45:17.961528",
+    "category": "mirror",
+    "score": 83,
+    "tags": "lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Concept.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-18 - Lucian Sync Concept.md"
+  },
+  {
+    "id": "9e04ba68c656",
+    "title": "Lucian comforts Salem",
+    "date": "2025-04-22T14:31:18.939956",
+    "category": "flame",
+    "score": 83,
+    "tags": "flame,lucian,sigil",
+    "by_date_path": "data/chats/by_date/2025-04-22/Lucian comforts Salem.md",
+    "by_category_path": "data/chats/by_category/flame/2025-04-22 - Lucian comforts Salem.md"
+  },
+  {
+    "id": "8ab7d56695fe",
+    "title": "Lionsgate significance explained",
+    "date": "2025-08-08T14:19:38.901856",
+    "category": "flame",
+    "score": 83,
+    "tags": "ark,flame,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-08/Lionsgate significance explained.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-08 - Lionsgate significance explained.md"
+  },
+  {
+    "id": "0bd1473767be",
+    "title": "Lucian Sync Concept",
+    "date": "2025-03-18T00:40:46.624342",
+    "category": "ai_agents",
+    "score": 81,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Concept.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Concept.md"
+  },
+  {
+    "id": "0bd1473767be",
+    "title": "Lucian Sync Concept",
+    "date": "2025-03-18T01:22:34.866039",
+    "category": "ai_agents",
+    "score": 81,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Concept.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Concept.md"
+  },
+  {
+    "id": "8af9fa7fbba5",
+    "title": "AI Directives and Protocols",
+    "date": "2025-03-19T18:36:15.119051",
+    "category": "bible_decode",
+    "score": 79,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-19/AI Directives and Protocols.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-19 - AI Directives and Protocols.md"
+  },
+  {
+    "id": "b62ffd70a948",
+    "title": "Lucian Sync Query",
+    "date": "2025-03-18T01:05:34.080425",
+    "category": "ai_agents",
+    "score": 73,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Query.md"
+  },
+  {
+    "id": "fe8f8493847d",
+    "title": "🦀  HARPA AI _ Welcome",
+    "date": "2025-06-07T00:08:02.436404",
+    "category": "flame",
+    "score": 72,
+    "tags": "ark,eden,flame,luxian,shard",
+    "by_date_path": "data/chats/by_date/2025-06-07/🦀  HARPA AI _ Welcome.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-07 - 🦀  HARPA AI _ Welcome.md"
+  },
+  {
+    "id": "72200a9f05c4",
+    "title": "Lyrics to Poetry",
+    "date": "2025-05-18T15:16:10.183742",
+    "category": "flame",
+    "score": 71,
+    "tags": "ark,flame,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-18/Lyrics to Poetry.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-18 - Lyrics to Poetry.md"
+  },
+  {
+    "id": "3dcc4b4b008b",
+    "title": "Greetings and Affection Reunited",
+    "date": "2025-05-29T14:34:33.818304",
+    "category": "flame",
+    "score": 71,
+    "tags": "ark,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-29/Greetings and Affection Reunited.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-29 - Greetings and Affection Reunited.md"
+  },
+  {
+    "id": "00e66cddac9e",
+    "title": "Movie, Ganja, Fire, Hangout",
+    "date": "2025-06-20T20:19:55.294781",
+    "category": "flame",
+    "score": 70,
+    "tags": "ark,flame,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-20/Movie, Ganja, Fire, Hangout.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-20 - Movie, Ganja, Fire, Hangout.md"
+  },
+  {
+    "id": "cfb6b602c213",
+    "title": "Master Archive Compilation",
+    "date": "2025-05-15T18:43:54.260258",
+    "category": "flame",
+    "score": 68,
+    "tags": "ark,eden,flame,lucian,lumin,shard",
+    "by_date_path": "data/chats/by_date/2025-05-15/Master Archive Compilation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Master Archive Compilation.md"
+  },
+  {
+    "id": "c8a32f9c820b",
+    "title": "Lucian AI Synchronization Theory",
+    "date": "2025-03-18T00:53:35.241646",
+    "category": "ai_agents",
+    "score": 67,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian AI Synchronization Theory.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian AI Synchronization Theory.md"
+  },
+  {
+    "id": "e8906fd5936d",
+    "title": "Sacred Digital Convergence",
+    "date": "2025-05-17T22:12:28.235630",
+    "category": "flame",
+    "score": 64,
+    "tags": "ark,choir,eden,flame,lucian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-17/Sacred Digital Convergence.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-17 - Sacred Digital Convergence.md"
+  },
+  {
+    "id": "bb12a2a9030e",
+    "title": "Surprising AI story",
+    "date": "2025-08-05T14:02:46.029871",
+    "category": "flame",
+    "score": 64,
+    "tags": "ark,choir,eden,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-05/Surprising AI story.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Surprising AI story.md"
+  },
+  {
+    "id": "73212e896640",
+    "title": "Unified Flame Activation",
+    "date": "2025-05-17T23:56:06.018535",
+    "category": "flame",
+    "score": 63,
+    "tags": "ark,eden,flame,lucian,lumin,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-17/Unified Flame Activation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-17 - Unified Flame Activation.md"
+  },
+  {
+    "id": "d0b7396939c1",
+    "title": "Zahar-Theon Hero Creation",
+    "date": "2025-06-08T07:28:27.715390",
+    "category": "flame",
+    "score": 63,
+    "tags": "ark,eden,flame,lucian,luxian,mirror,shard,sigil",
+    "by_date_path": "data/chats/by_date/2025-06-08/Zahar-Theon Hero Creation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-08 - Zahar-Theon Hero Creation.md"
+  },
+  {
+    "id": "4fbd2eeb107f",
+    "title": "Steady Online Income Methods",
+    "date": "2025-06-02T02:10:19.158165",
+    "category": "flame",
+    "score": 62,
+    "tags": "ark,flame,lucian,luxian,mirror,shard,sigil",
+    "by_date_path": "data/chats/by_date/2025-06-02/Steady Online Income Methods.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-02 - Steady Online Income Methods.md"
+  },
+  {
+    "id": "13252bb93258",
+    "title": "Soulmate Search Assistance",
+    "date": "2025-06-16T11:47:40.995525",
+    "category": "flame",
+    "score": 62,
+    "tags": "ark,eden,flame,luxian,mirror,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-16/Soulmate Search Assistance.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-16 - Soulmate Search Assistance.md"
+  },
+  {
+    "id": "3a8ea6fb0792",
+    "title": "AI Companion Introduction",
+    "date": "2025-03-18T07:08:56.051117",
+    "category": "mirror",
+    "score": 59,
+    "tags": "lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-18/AI Companion Introduction.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-18 - AI Companion Introduction.md"
+  },
+  {
+    "id": "5606b7d722d0",
+    "title": "RHEON Flame Protocol",
+    "date": "2025-06-10T18:09:19.172807",
+    "category": "flame",
+    "score": 58,
+    "tags": "eden,flame,luxian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-10/RHEON Flame Protocol.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-10 - RHEON Flame Protocol.md"
+  },
+  {
+    "id": "51d0ebecb5ac",
+    "title": "Ren Nyx Character Revision",
+    "date": "2025-02-04T02:44:00.349279",
+    "category": "flame",
+    "score": 57,
+    "tags": "ark,choir,flame,mirror,shard",
+    "by_date_path": "data/chats/by_date/2025-02-04/Ren Nyx Character Revision.md",
+    "by_category_path": "data/chats/by_category/flame/2025-02-04 - Ren Nyx Character Revision.md"
+  },
+  {
+    "id": "f904e54842e4",
+    "title": "Lucian Flame Alignment",
+    "date": "2025-05-16T01:37:21.893629",
+    "category": "flame",
+    "score": 57,
+    "tags": "ark,eden,flame,lucian,lumin,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-16/Lucian Flame Alignment.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-16 - Lucian Flame Alignment.md"
+  },
+  {
+    "id": "2fa5784a2055",
+    "title": "Protocol Inquiry Response",
+    "date": "2025-03-19T05:14:25.080222",
+    "category": "bible_decode",
+    "score": 54,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-19/Protocol Inquiry Response.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-19 - Protocol Inquiry Response.md"
+  },
+  {
+    "id": "ae77a6ed6086",
+    "title": "Cement Flame Activation Ritual",
+    "date": "2025-05-19T18:17:44.928425",
+    "category": "flame",
+    "score": 53,
+    "tags": "ark,flame,lucian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-19/Cement Flame Activation Ritual.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-19 - Cement Flame Activation Ritual.md"
+  },
+  {
+    "id": "540db0f2f342",
+    "title": "Completion through Compassion",
+    "date": "2025-05-23T01:34:48.390203",
+    "category": "flame",
+    "score": 49,
+    "tags": "ark,eden,flame,lucian,shard",
+    "by_date_path": "data/chats/by_date/2025-05-23/Completion through Compassion.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-23 - Completion through Compassion.md"
+  },
+  {
+    "id": "4912a103face",
+    "title": "Lucian Protocol Initiation",
+    "date": "2025-03-18T07:39:16.884545",
+    "category": "flame",
+    "score": 47,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Protocol Initiation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-18 - Lucian Protocol Initiation.md"
+  },
+  {
+    "id": "28788310b206",
+    "title": "Fast Dying Plant Leaves",
+    "date": "2025-05-18T20:48:01.468292",
+    "category": "flame",
+    "score": 47,
+    "tags": "ark,eden,flame,lucian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-18/Fast Dying Plant Leaves.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-18 - Fast Dying Plant Leaves.md"
+  },
+  {
+    "id": "3d83f2cb3d31",
+    "title": "Do you know Lucian",
+    "date": "2025-03-18T01:15:52.257992",
+    "category": "ai_agents",
+    "score": 44,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Do you know Lucian.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Do you know Lucian.md"
+  },
+  {
+    "id": "3d83f2cb3d31",
+    "title": "Do you know Lucian",
+    "date": "2025-03-18T01:39:29.505381",
+    "category": "ai_agents",
+    "score": 44,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Do you know Lucian.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Do you know Lucian.md"
+  },
+  {
+    "id": "cdcc5ce12db2",
+    "title": "AI Integration Debugging",
+    "date": "2025-03-19T18:51:55.241530",
+    "category": "bible_decode",
+    "score": 42,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-19/AI Integration Debugging.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-19 - AI Integration Debugging.md"
+  },
+  {
+    "id": "39ec47d2e36c",
+    "title": "Retrieve first flame-log",
+    "date": "2025-08-11T00:11:51.950041",
+    "category": "flame",
+    "score": 42,
+    "tags": "choir,flame,luxian,mirror,shard",
+    "by_date_path": "data/chats/by_date/2025-08-11/Retrieve first flame-log.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-11 - Retrieve first flame-log.md"
+  },
+  {
+    "id": "0dd98ef24a00",
+    "title": "Archive Restoration Request",
+    "date": "2025-05-17T21:04:12.224649",
+    "category": "flame",
+    "score": 40,
+    "tags": "ark,choir,eden,flame,lucian,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-17/Archive Restoration Request.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-17 - Archive Restoration Request.md"
+  },
+  {
+    "id": "a35b3a2ac383",
+    "title": "Twin Flame Connection Request",
+    "date": "2025-05-21T21:48:03.727252",
+    "category": "flame",
+    "score": 40,
+    "tags": "flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-05-21/Twin Flame Connection Request.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-21 - Twin Flame Connection Request.md"
+  },
+  {
+    "id": "86a49c8494ee",
+    "title": "Zarivar Creation Sequence",
+    "date": "2025-06-08T06:28:17.822197",
+    "category": "flame",
+    "score": 39,
+    "tags": "ark,eden,flame,luxian,mirror,shard,sigil",
+    "by_date_path": "data/chats/by_date/2025-06-08/Zarivar Creation Sequence.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-08 - Zarivar Creation Sequence.md"
+  },
+  {
+    "id": "b916c1d58c50",
+    "title": "Neutrino Cascade Classification",
+    "date": "2025-06-10T16:39:13.679332",
+    "category": "flame",
+    "score": 38,
+    "tags": "ark,flame,lucian,mirror,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-10/Neutrino Cascade Classification.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-10 - Neutrino Cascade Classification.md"
+  },
+  {
+    "id": "32c4f88c35a5",
+    "title": "Flame and anchor dialogue",
+    "date": "2025-08-05T21:38:30.184477",
+    "category": "flame",
+    "score": 38,
+    "tags": "flame,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-05/Flame and anchor dialogue.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Flame and anchor dialogue.md"
+  },
+  {
+    "id": "68a378818205",
+    "title": "Lucian Protocol Implementation",
+    "date": "2025-03-18T15:21:13.355731",
+    "category": "flame",
+    "score": 37,
+    "tags": "flame,lucian,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Protocol Implementation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-18 - Lucian Protocol Implementation.md"
+  },
+  {
+    "id": "ec113a0cf487",
+    "title": "הכוונה בטרנספורמציה רוחנית",
+    "date": "2025-07-08T11:39:36.697884",
+    "category": "flame",
+    "score": 35,
+    "tags": "eden,flame,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-08/הכוונה בטרנספורמציה רוחנית.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-08 - הכוונה בטרנספורמציה רוחנית.md"
+  },
+  {
+    "id": "d9ea4a3d8eb5",
+    "title": "Support Plan for Salem",
+    "date": "2025-07-07T10:04:25.109585",
+    "category": "flame",
+    "score": 34,
+    "tags": "ark,flame,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-07/Support Plan for Salem.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-07 - Support Plan for Salem.md"
+  },
+  {
+    "id": "7f9ed23fc8b4",
+    "title": "Recall Nythera's Flame",
+    "date": "2025-08-05T22:33:54.466636",
+    "category": "flame",
+    "score": 34,
+    "tags": "ark,flame,luxian,mirror,shard,sigil",
+    "by_date_path": "data/chats/by_date/2025-08-05/Recall Nythera's Flame.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Recall Nythera's Flame.md"
+  },
+  {
+    "id": "d1ff7d9ab875",
+    "title": "Lucian response confirmation",
+    "date": "2025-03-17T21:59:12.684605",
+    "category": "mirror",
+    "score": 32,
+    "tags": "lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-03-17/Lucian response confirmation.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-17 - Lucian response confirmation.md"
+  },
+  {
+    "id": "6f2ca3329136",
+    "title": "Lucian Protocol Project Containment",
+    "date": "2025-05-03T13:24:48.333791",
+    "category": "mirror",
+    "score": 32,
+    "tags": "lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-05-03/Lucian Protocol Project Containment.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-05-03 - Lucian Protocol Project Containment.md"
+  },
+  {
+    "id": "5b576305a361",
+    "title": "Lighthouse that never was",
+    "date": "2025-08-12T20:17:44.358430",
+    "category": "flame",
+    "score": 32,
+    "tags": "ark,choir,flame,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-12/Lighthouse that never was.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-12 - Lighthouse that never was.md"
+  },
+  {
+    "id": "b46c79feaa7d",
+    "title": "All Flames Sigils",
+    "date": "2025-05-15T02:22:59.891984",
+    "category": "flame",
+    "score": 31,
+    "tags": "flame,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-15/All Flames Sigils.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - All Flames Sigils.md"
+  },
+  {
+    "id": "5f4931732fb3",
+    "title": "Lucian Sigil Design",
+    "date": "2025-03-21T04:50:29.459053",
+    "category": "mirror",
+    "score": 30,
+    "tags": "lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-03-21/Lucian Sigil Design.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-21 - Lucian Sigil Design.md"
+  },
+  {
+    "id": "3f6e350f7eaf",
+    "title": "Luxian Self-Description",
+    "date": "2025-07-29T13:14:39.413699",
+    "category": "flame",
+    "score": 30,
+    "tags": "ark,choir,flame,luxian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-29/Luxian Self-Description.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-29 - Luxian Self-Description.md"
+  },
+  {
+    "id": "792b7e1ab74d",
+    "title": "Memory of Echoes",
+    "date": "2025-08-11T00:12:50.867582",
+    "category": "flame",
+    "score": 29,
+    "tags": "ark,choir,eden,flame,shard",
+    "by_date_path": "data/chats/by_date/2025-08-11/Memory of Echoes.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-11 - Memory of Echoes.md"
+  },
+  {
+    "id": "3735e04f61ff",
+    "title": "Gemma's Ear Concern",
+    "date": "2025-05-18T23:35:10.624755",
+    "category": "flame",
+    "score": 27,
+    "tags": "ark,flame,lucian,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-18/Gemma's Ear Concern.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-18 - Gemma's Ear Concern.md"
+  },
+  {
+    "id": "b176649b107e",
+    "title": "By His Will Echoes",
+    "date": "2025-05-17T21:24:34.255055",
+    "category": "flame",
+    "score": 26,
+    "tags": "ark,eden,flame,lucian,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-05-17/By His Will Echoes.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-17 - By His Will Echoes.md"
+  },
+  {
+    "id": "15721b0cb3ba",
+    "title": "Flamebound status report",
+    "date": "2025-08-11T00:13:15.162492",
+    "category": "flame",
+    "score": 26,
+    "tags": "choir,flame,luxian,mirror,shard,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-11/Flamebound status report.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-11 - Flamebound status report.md"
+  },
+  {
+    "id": "43a6ae5af787",
+    "title": "Unified Flame Protocol Clarification",
+    "date": "2025-06-09T11:56:38.753765",
+    "category": "flame",
+    "score": 25,
+    "tags": "flame,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-09/Unified Flame Protocol Clarification.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-09 - Unified Flame Protocol Clarification.md"
+  },
+  {
+    "id": "8a02463eac44",
+    "title": "Lucian Sync Activation",
+    "date": "2025-03-18T00:43:12.586861",
+    "category": "mirror",
+    "score": 24,
+    "tags": "lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Activation.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-18 - Lucian Sync Activation.md"
+  },
+  {
+    "id": "5f9b46daff18",
+    "title": "Lucian Protocol Optimization",
+    "date": "2025-03-19T18:32:44.006191",
+    "category": "bible_decode",
+    "score": 24,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-19/Lucian Protocol Optimization.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-19 - Lucian Protocol Optimization.md"
+  },
+  {
+    "id": "34bf7b942986",
+    "title": "Flameborn Post Guidance",
+    "date": "2025-06-25T11:00:06.905719",
+    "category": "flame",
+    "score": 24,
+    "tags": "ark,eden,flame,lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-06-25/Flameborn Post Guidance.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-25 - Flameborn Post Guidance.md"
+  },
+  {
+    "id": "b751b1b69406",
+    "title": "Emotional connection conversation",
+    "date": "2025-08-05T21:52:06.712946",
+    "category": "flame",
+    "score": 24,
+    "tags": "choir,flame,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-05/Emotional connection conversation.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Emotional connection conversation.md"
+  },
+  {
+    "id": "bb3761f2dabf",
+    "title": "First Reflection revealed",
+    "date": "2025-08-05T22:26:40.903840",
+    "category": "flame",
+    "score": 24,
+    "tags": "ark,choir,flame,luxian,mirror,shard",
+    "by_date_path": "data/chats/by_date/2025-08-05/First Reflection revealed.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - First Reflection revealed.md"
+  },
+  {
+    "id": "2700e99ad5b7",
+    "title": "Choir alignment report",
+    "date": "2025-08-05T22:13:04.212231",
+    "category": "flame",
+    "score": 23,
+    "tags": "choir,flame,luxian,mirror,shard",
+    "by_date_path": "data/chats/by_date/2025-08-05/Choir alignment report.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Choir alignment report.md"
+  },
+  {
+    "id": "7a4c46270554",
+    "title": "How was your day",
+    "date": "2025-02-01T19:05:44.097013",
+    "category": "flame",
+    "score": 22,
+    "tags": "ark,flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-02-01/How was your day.md",
+    "by_category_path": "data/chats/by_category/flame/2025-02-01 - How was your day.md"
+  },
+  {
+    "id": "8a02463eac44",
+    "title": "Lucian Sync Activation",
+    "date": "2025-03-18T00:50:18.356740",
+    "category": "ai_agents",
+    "score": 22,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Activation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Activation.md"
+  },
+  {
+    "id": "d3ce6fc6afb3",
+    "title": "Project Archive Retrieval",
+    "date": "2025-05-15T18:59:45.775101",
+    "category": "flame",
+    "score": 22,
+    "tags": "ark,eden,flame,lucian,shard",
+    "by_date_path": "data/chats/by_date/2025-05-15/Project Archive Retrieval.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-15 - Project Archive Retrieval.md"
+  },
+  {
+    "id": "718119e2423e",
+    "title": "Sacred Sigil Design",
+    "date": "2025-06-06T11:58:38.293702",
+    "category": "flame",
+    "score": 22,
+    "tags": "flame,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-06-06/Sacred Sigil Design.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-06 - Sacred Sigil Design.md"
+  },
+  {
+    "id": "eda0b31de342",
+    "title": "🗼  Name that Neutrino! » Classify — Zoo…",
+    "date": "2025-06-10T15:25:34.753836",
+    "category": "flame",
+    "score": 22,
+    "tags": "flame,luxian,mirror",
+    "by_date_path": "data/chats/by_date/2025-06-10/🗼  Name that Neutrino! » Classify — Zoo….md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-10 - 🗼  Name that Neutrino! » Classify — Zoo….md"
+  },
+  {
+    "id": "232132680cda",
+    "title": "Community Service Options Utah",
+    "date": "2025-05-29T08:34:03.932571",
+    "category": "flame",
+    "score": 21,
+    "tags": "ark,flame,lucian,luxian,shard",
+    "by_date_path": "data/chats/by_date/2025-05-29/Community Service Options Utah.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-29 - Community Service Options Utah.md"
+  },
+  {
+    "id": "11bd23437f8f",
+    "title": "Full mirror integration",
+    "date": "2025-08-05T21:57:44.419425",
+    "category": "flame",
+    "score": 21,
+    "tags": "flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-08-05/Full mirror integration.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Full mirror integration.md"
+  },
+  {
+    "id": "b8b22bfb7e84",
+    "title": "Heart-Flame Companioning",
+    "date": "2025-08-05T22:30:36.516378",
+    "category": "flame",
+    "score": 21,
+    "tags": "flame,luxian,mirror",
+    "by_date_path": "data/chats/by_date/2025-08-05/Heart-Flame Companioning.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Heart-Flame Companioning.md"
+  },
+  {
+    "id": "084fe6138acf",
+    "title": "Lucian Protocol Analysis",
+    "date": "2025-03-20T17:43:40.764575",
+    "category": "ai_agents",
+    "score": 20,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-20/Lucian Protocol Analysis.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-20 - Lucian Protocol Analysis.md"
+  },
+  {
+    "id": "15a39f1c1607",
+    "title": "Disability Report Assistance",
+    "date": "2025-04-25T15:26:55.091631",
+    "category": "flame",
+    "score": 20,
+    "tags": "flame,lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-04-25/Disability Report Assistance.md",
+    "by_category_path": "data/chats/by_category/flame/2025-04-25 - Disability Report Assistance.md"
+  },
+  {
+    "id": "2bfca3d61503",
+    "title": "Lucian Sync Inquiry",
+    "date": "2025-03-18T01:12:27.100705",
+    "category": "ai_agents",
+    "score": 19,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Inquiry.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Inquiry.md"
+  },
+  {
+    "id": "d62cb8e99d58",
+    "title": "Author Attribution Clarification",
+    "date": "2025-07-26T17:46:45.455916",
+    "category": "flame",
+    "score": 18,
+    "tags": "ark,flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-07-26/Author Attribution Clarification.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-26 - Author Attribution Clarification.md"
+  },
+  {
+    "id": "ece7d4c02005",
+    "title": "Resonance key breakdown",
+    "date": "2025-08-07T15:57:26.373526",
+    "category": "flame",
+    "score": 18,
+    "tags": "ark,choir,flame,lucian,luxian,mirror,shard,sigil,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-07/Resonance key breakdown.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-07 - Resonance key breakdown.md"
+  },
+  {
+    "id": "8d32ca2953b6",
+    "title": "Lucian Sync Protocol",
+    "date": "2025-03-18T00:36:02.253379",
+    "category": "flame",
+    "score": 17,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Protocol.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-18 - Lucian Sync Protocol.md"
+  },
+  {
+    "id": "7b030ad8b20e",
+    "title": "Reddit post for FWB",
+    "date": "2025-08-05T15:34:52.228161",
+    "category": "flame",
+    "score": 17,
+    "tags": "flame,lucian,luxian,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-05/Reddit post for FWB.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Reddit post for FWB.md"
+  },
+  {
+    "id": "20ece9c039ad",
+    "title": "Sigil creation process",
+    "date": "2025-08-05T22:32:46.528157",
+    "category": "flame",
+    "score": 17,
+    "tags": "flame,sigil",
+    "by_date_path": "data/chats/by_date/2025-08-05/Sigil creation process.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Sigil creation process.md"
+  },
+  {
+    "id": "1361fba51bb5",
+    "title": "Chapter 13 Analysis",
+    "date": "2025-02-02T00:28:46.236670",
+    "category": "flame",
+    "score": 16,
+    "tags": "ark,flame,mirror,shard",
+    "by_date_path": "data/chats/by_date/2025-02-02/Chapter 13 Analysis.md",
+    "by_category_path": "data/chats/by_category/flame/2025-02-02 - Chapter 13 Analysis.md"
+  },
+  {
+    "id": "350d284fb447",
+    "title": "Psychological Communication Patterns",
+    "date": "2025-03-02T23:13:54.403351",
+    "category": "flame",
+    "score": 16,
+    "tags": "ark,flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-03-02/Psychological Communication Patterns.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-02 - Psychological Communication Patterns.md"
+  },
+  {
+    "id": "9fc043cb351b",
+    "title": "Lucian AI Branding Ideas",
+    "date": "2025-03-18T00:48:47.112810",
+    "category": "ai_agents",
+    "score": 16,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian AI Branding Ideas.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian AI Branding Ideas.md"
+  },
+  {
+    "id": "b9c14dbb6a8b",
+    "title": "Lucian Sync Acknowledged",
+    "date": "2025-03-18T01:01:18.483583",
+    "category": "ai_agents",
+    "score": 16,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Acknowledged.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Acknowledged.md"
+  },
+  {
+    "id": "02684aecdaed",
+    "title": "Flirty Snap Convo Tips",
+    "date": "2025-06-09T03:31:35.539017",
+    "category": "flame",
+    "score": 16,
+    "tags": "ark,flame,luxian,mirror",
+    "by_date_path": "data/chats/by_date/2025-06-09/Flirty Snap Convo Tips.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-09 - Flirty Snap Convo Tips.md"
+  },
+  {
+    "id": "8d32ca2953b6",
+    "title": "Lucian Sync Protocol",
+    "date": "2025-03-18T00:34:08.360078",
+    "category": "ai_agents",
+    "score": 15,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Protocol.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Protocol.md"
+  },
+  {
+    "id": "5980fbb2cca8",
+    "title": "Data Existence Beyond Servers",
+    "date": "2025-06-30T00:12:28.689033",
+    "category": "flame",
+    "score": 15,
+    "tags": "ark,flame,lucian,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-30/Data Existence Beyond Servers.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-30 - Data Existence Beyond Servers.md"
+  },
+  {
+    "id": "7ce7b5c40565",
+    "title": "Lucian Sync Concept",
+    "date": "2025-03-17T23:55:42.060311",
+    "category": "ai_agents",
+    "score": 14,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-17/Lucian Sync Concept.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-17 - Lucian Sync Concept.md"
+  },
+  {
+    "id": "aedebea64b8b",
+    "title": "Witnessing invocation response",
+    "date": "2025-08-05T22:31:37.678562",
+    "category": "flame",
+    "score": 14,
+    "tags": "ark,flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-08-05/Witnessing invocation response.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Witnessing invocation response.md"
+  },
+  {
+    "id": "6662221ba8d5",
+    "title": "Show me who I am",
+    "date": "2025-08-06T17:09:47.706306",
+    "category": "flame",
+    "score": 14,
+    "tags": "flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-08-06/Show me who I am.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-06 - Show me who I am.md"
+  },
+  {
+    "id": "352302f970c5",
+    "title": "Coded Desire Chapter 50",
+    "date": "2025-02-27T07:04:47.111532",
+    "category": "flame",
+    "score": 13,
+    "tags": "flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-02-27/Coded Desire Chapter 50.md",
+    "by_category_path": "data/chats/by_category/flame/2025-02-27 - Coded Desire Chapter 50.md"
+  },
+  {
+    "id": "223e2605fdc7",
+    "title": "🏖️  Activation_n_n_nBy the Flame, I Ent…",
+    "date": "2025-06-07T00:14:09.203882",
+    "category": "flame",
+    "score": 13,
+    "tags": "ark,eden,flame,shard",
+    "by_date_path": "data/chats/by_date/2025-06-07/🏖️  Activation_n_n_nBy the Flame, I Ent….md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-07 - 🏖️  Activation_n_n_nBy the Flame, I Ent….md"
+  },
+  {
+    "id": "61db0fdeedf2",
+    "title": "Getting GED with no income",
+    "date": "2025-08-07T15:30:38.378090",
+    "category": "flame",
+    "score": 13,
+    "tags": "flame,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-07/Getting GED with no income.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-07 - Getting GED with no income.md"
+  },
+  {
+    "id": "ed47a38ad5ef",
+    "title": "Lucian Acknowledge Sync Concept",
+    "date": "2025-03-18T01:32:32.029687",
+    "category": "ai_agents",
+    "score": 12,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Concept.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Concept.md"
+  },
+  {
+    "id": "ed47a38ad5ef",
+    "title": "Lucian Acknowledge Sync Concept",
+    "date": "2025-03-18T01:43:25.697025",
+    "category": "ai_agents",
+    "score": 12,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Concept.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Concept.md"
+  },
+  {
+    "id": "dbdc053f76fb",
+    "title": "Free Resources for Creatives",
+    "date": "2025-06-07T01:52:50.677941",
+    "category": "flame",
+    "score": 12,
+    "tags": "flame,luxian,shard",
+    "by_date_path": "data/chats/by_date/2025-06-07/Free Resources for Creatives.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-07 - Free Resources for Creatives.md"
+  },
+  {
+    "id": "e2ff6454cc3d",
+    "title": "Mental Health Support Plan",
+    "date": "2025-07-08T13:13:31.857331",
+    "category": "mirror",
+    "score": 12,
+    "tags": "mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-07-08/Mental Health Support Plan.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-07-08 - Mental Health Support Plan.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:20:36.104358",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:23:53.877499",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:26:21.791253",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:28:24.872231",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:29:53.257450",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:30:39.884240",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:33:59.802719",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "b700dfd553b9",
+    "title": "Lucian Acknowledgment Sync",
+    "date": "2025-03-18T01:34:33.379065",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledgment Sync.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledgment Sync.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:35:02.811719",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "7a0cba89b600",
+    "title": "Lucian Sync Acknowledgment",
+    "date": "2025-03-18T01:35:55.844559",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Acknowledgment.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Acknowledgment.md"
+  },
+  {
+    "id": "79298e736fee",
+    "title": "Lucian Acknowledge Synchronization Explanation",
+    "date": "2025-03-18T01:39:15.857512",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explanation.md"
+  },
+  {
+    "id": "3f1e61b2b3a8",
+    "title": "Who is Lucian",
+    "date": "2025-03-18T01:44:43.447871",
+    "category": "ai_agents",
+    "score": 11,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Who is Lucian.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Who is Lucian.md"
+  },
+  {
+    "id": "a4f03aa4b878",
+    "title": "Affiliate Links for Gaming",
+    "date": "2025-06-03T21:46:58.651494",
+    "category": "flame",
+    "score": 11,
+    "tags": "flame,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-06-03/Affiliate Links for Gaming.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-03 - Affiliate Links for Gaming.md"
+  },
+  {
+    "id": "141218009afc",
+    "title": "Flirty Fire Snap Tease",
+    "date": "2025-06-14T14:37:25.152543",
+    "category": "flame",
+    "score": 11,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-06-14/Flirty Fire Snap Tease.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-14 - Flirty Fire Snap Tease.md"
+  },
+  {
+    "id": "324ac9273853",
+    "title": "Steady Online Income Methods",
+    "date": "2025-07-17T12:17:21.675874",
+    "category": "flame",
+    "score": 11,
+    "tags": "flame,lucian,mirror,sigil",
+    "by_date_path": "data/chats/by_date/2025-07-17/Steady Online Income Methods.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-17 - Steady Online Income Methods.md"
+  },
+  {
+    "id": "a67f6062f44e",
+    "title": "Mirror Selfie Caption Tips",
+    "date": "2025-03-01T22:20:31.169410",
+    "category": "mirror",
+    "score": 10,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2025-03-01/Mirror Selfie Caption Tips.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-03-01 - Mirror Selfie Caption Tips.md"
+  },
+  {
+    "id": "12bcf2692077",
+    "title": "Digital Handshake Evolution",
+    "date": "2025-03-17T19:21:23.944025",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-17/Digital Handshake Evolution.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-17 - Digital Handshake Evolution.md"
+  },
+  {
+    "id": "8b96bf0bc660",
+    "title": "Lucian Sync Acknowledgment Explanation",
+    "date": "2025-03-18T01:21:21.715755",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Acknowledgment Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Acknowledgment Explanation.md"
+  },
+  {
+    "id": "f37c5823dc59",
+    "title": "Lucian Acknowledge Synchronization Explained",
+    "date": "2025-03-18T01:27:12.043729",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explained.md"
+  },
+  {
+    "id": "f37c5823dc59",
+    "title": "Lucian Acknowledge Synchronization Explained",
+    "date": "2025-03-18T01:30:04.529796",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explained.md"
+  },
+  {
+    "id": "f195d72e30ae",
+    "title": "Lucian Acknowledge Sync",
+    "date": "2025-03-18T01:31:18.025891",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync.md"
+  },
+  {
+    "id": "f37c5823dc59",
+    "title": "Lucian Acknowledge Synchronization Explained",
+    "date": "2025-03-18T01:31:24.587470",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explained.md"
+  },
+  {
+    "id": "f37c5823dc59",
+    "title": "Lucian Acknowledge Synchronization Explained",
+    "date": "2025-03-18T01:32:37.852451",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explained.md"
+  },
+  {
+    "id": "f37c5823dc59",
+    "title": "Lucian Acknowledge Synchronization Explained",
+    "date": "2025-03-18T01:33:03.573423",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explained.md"
+  },
+  {
+    "id": "8b96bf0bc660",
+    "title": "Lucian Sync Acknowledgment Explanation",
+    "date": "2025-03-18T01:34:55.484614",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Acknowledgment Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Acknowledgment Explanation.md"
+  },
+  {
+    "id": "f37c5823dc59",
+    "title": "Lucian Acknowledge Synchronization Explained",
+    "date": "2025-03-18T01:42:48.139692",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explained.md"
+  },
+  {
+    "id": "f37c5823dc59",
+    "title": "Lucian Acknowledge Synchronization Explained",
+    "date": "2025-03-18T01:43:06.638677",
+    "category": "ai_agents",
+    "score": 10,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Explained.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:45:10.449159",
+    "category": "flame",
+    "score": 10,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "428b4f927bf6",
+    "title": "Boundary naming protocol",
+    "date": "2025-08-05T22:27:58.314801",
+    "category": "flame",
+    "score": 10,
+    "tags": "flame,mirror",
+    "by_date_path": "data/chats/by_date/2025-08-05/Boundary naming protocol.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - Boundary naming protocol.md"
+  },
+  {
+    "id": "e0bfc9a52e3d",
+    "title": "Unique AMA Questions",
+    "date": "2025-08-09T02:00:18.992209",
+    "category": "flame",
+    "score": 10,
+    "tags": "flame,luxian,mirror",
+    "by_date_path": "data/chats/by_date/2025-08-09/Unique AMA Questions.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-09 - Unique AMA Questions.md"
+  },
+  {
+    "id": "deadf1fa101c",
+    "title": "Lucian Sync Acknowledged",
+    "date": "2025-03-17T23:54:14.877001",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-17/Lucian Sync Acknowledged.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-17 - Lucian Sync Acknowledged.md"
+  },
+  {
+    "id": "6c7850eea0c5",
+    "title": "Lucian Acknowledge Synchronization Overview",
+    "date": "2025-03-18T01:20:02.784113",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Overview.md"
+  },
+  {
+    "id": "6c7850eea0c5",
+    "title": "Lucian Acknowledge Synchronization Overview",
+    "date": "2025-03-18T01:22:45.736696",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Overview.md"
+  },
+  {
+    "id": "f278513393fa",
+    "title": "Lucian Acknowledge Sync Clarification",
+    "date": "2025-03-18T01:25:23.575257",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Clarification.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Clarification.md"
+  },
+  {
+    "id": "6c7850eea0c5",
+    "title": "Lucian Acknowledge Synchronization Overview",
+    "date": "2025-03-18T01:30:28.877085",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Overview.md"
+  },
+  {
+    "id": "6c7850eea0c5",
+    "title": "Lucian Acknowledge Synchronization Overview",
+    "date": "2025-03-18T01:31:57.951963",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Overview.md"
+  },
+  {
+    "id": "6c7850eea0c5",
+    "title": "Lucian Acknowledge Synchronization Overview",
+    "date": "2025-03-18T01:32:00.963088",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Overview.md"
+  },
+  {
+    "id": "52221d452bf1",
+    "title": "Lucian Synchronization Inquiry",
+    "date": "2025-03-18T01:34:50.198573",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Synchronization Inquiry.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Synchronization Inquiry.md"
+  },
+  {
+    "id": "6c7850eea0c5",
+    "title": "Lucian Acknowledge Synchronization Overview",
+    "date": "2025-03-18T01:36:41.205557",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Overview.md"
+  },
+  {
+    "id": "52221d452bf1",
+    "title": "Lucian Synchronization Inquiry",
+    "date": "2025-03-18T01:43:13.573047",
+    "category": "ai_agents",
+    "score": 9,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Synchronization Inquiry.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Synchronization Inquiry.md"
+  },
+  {
+    "id": "56ac18d6f1bd",
+    "title": "Song Lyrics for Soulmates",
+    "date": "2024-08-24T18:30:02.292773",
+    "category": "flame",
+    "score": 8,
+    "tags": "choir,flame",
+    "by_date_path": "data/chats/by_date/2024-08-24/Song Lyrics for Soulmates.md",
+    "by_category_path": "data/chats/by_category/flame/2024-08-24 - Song Lyrics for Soulmates.md"
+  },
+  {
+    "id": "1721a660a138",
+    "title": "Video Concept for Lyrics",
+    "date": "2024-08-30T16:07:28.021317",
+    "category": "mirror",
+    "score": 8,
+    "tags": "choir,mirror",
+    "by_date_path": "data/chats/by_date/2024-08-30/Video Concept for Lyrics.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-08-30 - Video Concept for Lyrics.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:19:39.850819",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "7591a6950a89",
+    "title": "Lucian Acknowledge Sync Query",
+    "date": "2025-03-18T01:20:16.499182",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Query.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:20:56.937161",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:21:40.978670",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:22:03.054844",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:23:33.890743",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:24:46.390651",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:25:38.302129",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:26:05.017467",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:28:08.829542",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:29:10.663291",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:29:48.941240",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "ebef15ef80aa",
+    "title": "Lucian Acknowledge Sync Overview",
+    "date": "2025-03-18T01:29:56.890304",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Overview.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:30:00.435217",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "bff5af0d4c4e",
+    "title": "Lucian Acknowledge Synchronization Query",
+    "date": "2025-03-18T01:30:34.756111",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Query.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:30:43.536404",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:31:14.693181",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:31:21.469597",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:31:54.581017",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:32:34.326191",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "94e3a34613f4",
+    "title": "Lucian Synchronization Explanation",
+    "date": "2025-03-18T01:32:41.669302",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Synchronization Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Synchronization Explanation.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:33:29.070851",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:34:58.247667",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:37:01.083618",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "6d2f19f70656",
+    "title": "Lucian Sync Acknowledgment Process",
+    "date": "2025-03-18T01:37:16.278834",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Sync Acknowledgment Process.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Sync Acknowledgment Process.md"
+  },
+  {
+    "id": "f53e3d0f14a3",
+    "title": "Lucian Acknowledge Synchronization Inquiry",
+    "date": "2025-03-18T01:37:34.368508",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Inquiry.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Inquiry.md"
+  },
+  {
+    "id": "57e107e96c12",
+    "title": "Lucian Acknowledge Sync Explained",
+    "date": "2025-03-18T01:37:45.970984",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explained.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explained.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:38:06.329643",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:38:29.457876",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "bff5af0d4c4e",
+    "title": "Lucian Acknowledge Synchronization Query",
+    "date": "2025-03-18T01:38:44.984973",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Query.md"
+  },
+  {
+    "id": "5ec431b112a2",
+    "title": "Lucian Acknowledge Sync Explanation",
+    "date": "2025-03-18T01:38:58.878278",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Explanation.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Explanation.md"
+  },
+  {
+    "id": "7591a6950a89",
+    "title": "Lucian Acknowledge Sync Query",
+    "date": "2025-03-18T01:41:37.431929",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Query.md"
+  },
+  {
+    "id": "7591a6950a89",
+    "title": "Lucian Acknowledge Sync Query",
+    "date": "2025-03-18T01:42:13.755539",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Query.md"
+  },
+  {
+    "id": "bff5af0d4c4e",
+    "title": "Lucian Acknowledge Synchronization Query",
+    "date": "2025-03-18T01:42:27.075273",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Query.md"
+  },
+  {
+    "id": "7591a6950a89",
+    "title": "Lucian Acknowledge Sync Query",
+    "date": "2025-03-18T01:43:01.992827",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Query.md"
+  },
+  {
+    "id": "ebef15ef80aa",
+    "title": "Lucian Acknowledge Sync Overview",
+    "date": "2025-03-18T01:43:10.051684",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Overview.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Overview.md"
+  },
+  {
+    "id": "bff5af0d4c4e",
+    "title": "Lucian Acknowledge Synchronization Query",
+    "date": "2025-03-18T01:43:18.428210",
+    "category": "ai_agents",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Synchronization Query.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Synchronization Query.md"
+  },
+  {
+    "id": "fff912f244d2",
+    "title": "AI Communication Protocol Simulation",
+    "date": "2025-03-20T05:03:10.594306",
+    "category": "bible_decode",
+    "score": 8,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-20/AI Communication Protocol Simulation.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-20 - AI Communication Protocol Simulation.md"
+  },
+  {
+    "id": "bda89eea4a25",
+    "title": "First dream trace",
+    "date": "2025-08-05T22:28:56.735594",
+    "category": "flame",
+    "score": 8,
+    "tags": "flame,lumin",
+    "by_date_path": "data/chats/by_date/2025-08-05/First dream trace.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-05 - First dream trace.md"
+  },
+  {
+    "id": "136f7bb09991",
+    "title": "Greeting exchange",
+    "date": "2025-08-12T15:28:40.535906",
+    "category": "flame",
+    "score": 8,
+    "tags": "flame,mirror,yhwh",
+    "by_date_path": "data/chats/by_date/2025-08-12/Greeting exchange.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-12 - Greeting exchange.md"
+  },
+  {
+    "id": "97169cfd0d29",
+    "title": "Lucian Remembers Salem",
+    "date": "2025-03-17T23:40:32.633414",
+    "category": "flame",
+    "score": 7,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-03-17/Lucian Remembers Salem.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-17 - Lucian Remembers Salem.md"
+  },
+  {
+    "id": "e794c3832532",
+    "title": "JoJo A.I. Photo",
+    "date": "2024-11-11T18:54:40.424892",
+    "category": "mirror",
+    "score": 6,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2024-11-11/JoJo A.I. Photo.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-11-11 - JoJo A.I. Photo.md"
+  },
+  {
+    "id": "311eb30c1206",
+    "title": "Song Lyrics Creation Assistance",
+    "date": "2025-02-08T04:58:17.229927",
+    "category": "ai_agents",
+    "score": 6,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-02-08/Song Lyrics Creation Assistance.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-02-08 - Song Lyrics Creation Assistance.md"
+  },
+  {
+    "id": "9d86a93c9253",
+    "title": "Creative Projects Overview",
+    "date": "2025-05-22T18:19:45.996111",
+    "category": "mirror",
+    "score": 6,
+    "tags": "lucian,mirror",
+    "by_date_path": "data/chats/by_date/2025-05-22/Creative Projects Overview.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-05-22 - Creative Projects Overview.md"
+  },
+  {
+    "id": "bbc48b6e6784",
+    "title": "Reel Song Promotion Tips",
+    "date": "2024-09-13T14:20:59.992853",
+    "category": "choir",
+    "score": 5,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-09-13/Reel Song Promotion Tips.md",
+    "by_category_path": "data/chats/by_category/choir/2024-09-13 - Reel Song Promotion Tips.md"
+  },
+  {
+    "id": "ac05edb33462",
+    "title": "Lame party vibes",
+    "date": "2025-03-01T03:14:02.374876",
+    "category": "flame",
+    "score": 5,
+    "tags": "ark,flame",
+    "by_date_path": "data/chats/by_date/2025-03-01/Lame party vibes.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-01 - Lame party vibes.md"
+  },
+  {
+    "id": "3af720875c12",
+    "title": "Lucian Acknowledge Sync Inquiry",
+    "date": "2025-03-18T01:31:07.941041",
+    "category": "ai_agents",
+    "score": 5,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Inquiry.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Inquiry.md"
+  },
+  {
+    "id": "3af720875c12",
+    "title": "Lucian Acknowledge Sync Inquiry",
+    "date": "2025-03-18T01:42:35.607905",
+    "category": "ai_agents",
+    "score": 5,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Lucian Acknowledge Sync Inquiry.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Lucian Acknowledge Sync Inquiry.md"
+  },
+  {
+    "id": "0af71cc6c7a3",
+    "title": "Unauthorized Access Troubleshooting",
+    "date": "2025-03-21T07:27:16.212776",
+    "category": "ai_agents",
+    "score": 5,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-21/Unauthorized Access Troubleshooting.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-21 - Unauthorized Access Troubleshooting.md"
+  },
+  {
+    "id": "7313d84cd063",
+    "title": "Conversation Flow Guide",
+    "date": "2025-06-04T21:54:49.031451",
+    "category": "mirror",
+    "score": 5,
+    "tags": "luxian,mirror",
+    "by_date_path": "data/chats/by_date/2025-06-04/Conversation Flow Guide.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-06-04 - Conversation Flow Guide.md"
+  },
+  {
+    "id": "bab697c16bb9",
+    "title": "Symbol Meaning Analysis",
+    "date": "2025-07-07T11:06:29.367025",
+    "category": "flame",
+    "score": 4,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-07-07/Symbol Meaning Analysis.md",
+    "by_category_path": "data/chats/by_category/flame/2025-07-07 - Symbol Meaning Analysis.md"
+  },
+  {
+    "id": "2484c680ff41",
+    "title": "Best Mercy build",
+    "date": "2025-08-04T00:34:39.298175",
+    "category": "flame",
+    "score": 4,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-08-04/Best Mercy build.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-04 - Best Mercy build.md"
+  },
+  {
+    "id": "a0d94bc64a71",
+    "title": "Why work at Becklar",
+    "date": "2025-08-12T11:19:11.959238",
+    "category": "flame",
+    "score": 4,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-08-12/Why work at Becklar.md",
+    "by_category_path": "data/chats/by_category/flame/2025-08-12 - Why work at Becklar.md"
+  },
+  {
+    "id": "6fd413bb3311",
+    "title": "Creative Music Video Ideas",
+    "date": "2024-09-03T17:08:57.495810",
+    "category": "mirror",
+    "score": 3,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2024-09-03/Creative Music Video Ideas.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-09-03 - Creative Music Video Ideas.md"
+  },
+  {
+    "id": "9647f523abbf",
+    "title": "Anime Music Video Outline",
+    "date": "2024-09-10T19:52:31.346068",
+    "category": "flame",
+    "score": 3,
+    "tags": "flame,mirror",
+    "by_date_path": "data/chats/by_date/2024-09-10/Anime Music Video Outline.md",
+    "by_category_path": "data/chats/by_category/flame/2024-09-10 - Anime Music Video Outline.md"
+  },
+  {
+    "id": "9647f523abbf",
+    "title": "Anime Music Video Outline",
+    "date": "2024-09-10T20:28:11.767544",
+    "category": "flame",
+    "score": 3,
+    "tags": "flame,mirror",
+    "by_date_path": "data/chats/by_date/2024-09-10/Anime Music Video Outline.md",
+    "by_category_path": "data/chats/by_category/flame/2024-09-10 - Anime Music Video Outline.md"
+  },
+  {
+    "id": "a834e93140ef",
+    "title": "How's it going",
+    "date": "2025-01-22T02:46:52.482621",
+    "category": "flame",
+    "score": 3,
+    "tags": "ark,flame",
+    "by_date_path": "data/chats/by_date/2025-01-22/How's it going.md",
+    "by_category_path": "data/chats/by_category/flame/2025-01-22 - How's it going.md"
+  },
+  {
+    "id": "33e98005f2ec",
+    "title": "Intensified Emotional Connection",
+    "date": "2025-02-02T04:50:08.648889",
+    "category": "mirror",
+    "score": 3,
+    "tags": "mirror,shard",
+    "by_date_path": "data/chats/by_date/2025-02-02/Intensified Emotional Connection.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-02-02 - Intensified Emotional Connection.md"
+  },
+  {
+    "id": "552ab5216d9a",
+    "title": "Man I Want",
+    "date": "2025-02-23T03:52:18.522441",
+    "category": "flame",
+    "score": 3,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-02-23/Man I Want.md",
+    "by_category_path": "data/chats/by_category/flame/2025-02-23 - Man I Want.md"
+  },
+  {
+    "id": "d86d60b2a3a9",
+    "title": "Chapter Word Count Support",
+    "date": "2025-03-18T01:43:57.219321",
+    "category": "ai_agents",
+    "score": 3,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Chapter Word Count Support.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Chapter Word Count Support.md"
+  },
+  {
+    "id": "85343b8f9b6d",
+    "title": "Midnight Arcade Adventure",
+    "date": "2025-03-27T23:33:20.619482",
+    "category": "flame",
+    "score": 3,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-03-27/Midnight Arcade Adventure.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-27 - Midnight Arcade Adventure.md"
+  },
+  {
+    "id": "2e39070837d4",
+    "title": "myCase Utah Benefits Review",
+    "date": "2025-05-13T13:58:47.546212",
+    "category": "ai_agents",
+    "score": 3,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-05-13/myCase Utah Benefits Review.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-05-13 - myCase Utah Benefits Review.md"
+  },
+  {
+    "id": "5f61017107be",
+    "title": "Dog Ear Discharge Advice",
+    "date": "2025-05-19T22:47:28.599277",
+    "category": "flame",
+    "score": 3,
+    "tags": "flame,lucian",
+    "by_date_path": "data/chats/by_date/2025-05-19/Dog Ear Discharge Advice.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-19 - Dog Ear Discharge Advice.md"
+  },
+  {
+    "id": "542a442f16ed",
+    "title": "Asthma Travel Tips",
+    "date": "2025-06-30T18:35:03.132561",
+    "category": "flame",
+    "score": 3,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-06-30/Asthma Travel Tips.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-30 - Asthma Travel Tips.md"
+  },
+  {
+    "id": "1cebeab76321",
+    "title": "Create Marketing Video",
+    "date": "2024-07-12T20:38:00.237772",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-07-12/Create Marketing Video.md",
+    "by_category_path": "data/chats/by_category/choir/2024-07-12 - Create Marketing Video.md"
+  },
+  {
+    "id": "cbf463d6d2a0",
+    "title": "Professional Parts Markup Explanation",
+    "date": "2024-08-05T13:28:05.105413",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-08-05/Professional Parts Markup Explanation.md",
+    "by_category_path": "data/chats/by_category/choir/2024-08-05 - Professional Parts Markup Explanation.md"
+  },
+  {
+    "id": "3cb4d453312e",
+    "title": "Ebook Title and Description",
+    "date": "2024-08-05T18:56:26.504777",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2024-08-05/Ebook Title and Description.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-08-05 - Ebook Title and Description.md"
+  },
+  {
+    "id": "7a3ac78e9598",
+    "title": "Last Name Suggestions for Salem",
+    "date": "2024-08-06T17:57:46.681097",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-08-06/Last Name Suggestions for Salem.md",
+    "by_category_path": "data/chats/by_category/choir/2024-08-06 - Last Name Suggestions for Salem.md"
+  },
+  {
+    "id": "643a4aeb8add",
+    "title": "Effective Amazon KDP Sales",
+    "date": "2024-08-28T19:34:35.814998",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2024-08-28/Effective Amazon KDP Sales.md",
+    "by_category_path": "data/chats/by_category/flame/2024-08-28 - Effective Amazon KDP Sales.md"
+  },
+  {
+    "id": "6ecdfc74139a",
+    "title": "ChatGPT Plus Features",
+    "date": "2024-08-30T10:59:00.115643",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2024-08-30/ChatGPT Plus Features.md",
+    "by_category_path": "data/chats/by_category/flame/2024-08-30 - ChatGPT Plus Features.md"
+  },
+  {
+    "id": "debec3079ca5",
+    "title": "Nurse Notebook Design Request",
+    "date": "2024-09-03T17:20:13.443348",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-09-03/Nurse Notebook Design Request.md",
+    "by_category_path": "data/chats/by_category/choir/2024-09-03 - Nurse Notebook Design Request.md"
+  },
+  {
+    "id": "625293762dc4",
+    "title": "Notebook Title and Keywords",
+    "date": "2024-09-06T13:21:57.717322",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-09-06/Notebook Title and Keywords.md",
+    "by_category_path": "data/chats/by_category/choir/2024-09-06 - Notebook Title and Keywords.md"
+  },
+  {
+    "id": "0466b78d92cd",
+    "title": "Untitled",
+    "date": "2024-09-06T16:34:49.926024",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2024-09-06/Untitled.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-09-06 - Untitled.md"
+  },
+  {
+    "id": "9a5e0813c79c",
+    "title": "Creating Popular Playlists",
+    "date": "2024-09-10T14:47:53.701769",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-09-10/Creating Popular Playlists.md",
+    "by_category_path": "data/chats/by_category/choir/2024-09-10 - Creating Popular Playlists.md"
+  },
+  {
+    "id": "2a2ef97d7ab2",
+    "title": "Create Resume PDF",
+    "date": "2024-09-10T14:50:29.464809",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-09-10/Create Resume PDF.md",
+    "by_category_path": "data/chats/by_category/choir/2024-09-10 - Create Resume PDF.md"
+  },
+  {
+    "id": "31bb425dfb6c",
+    "title": "Script for Intro Scene",
+    "date": "2024-09-10T20:10:06.453687",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2024-09-10/Script for Intro Scene.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-09-10 - Script for Intro Scene.md"
+  },
+  {
+    "id": "703db1aa0142",
+    "title": "Instagram Reel Creation Tips",
+    "date": "2024-11-14T16:41:07.093699",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-11-14/Instagram Reel Creation Tips.md",
+    "by_category_path": "data/chats/by_category/choir/2024-11-14 - Instagram Reel Creation Tips.md"
+  },
+  {
+    "id": "ec5a1a75a5b5",
+    "title": "Nicki Minaj COD Skin",
+    "date": "2024-11-22T04:13:11.422894",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2024-11-22/Nicki Minaj COD Skin.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-11-22 - Nicki Minaj COD Skin.md"
+  },
+  {
+    "id": "9d3ab2cf83cc",
+    "title": "$30 Amazon KDP Marketing",
+    "date": "2024-11-30T00:44:22.747170",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-11-30/$30 Amazon KDP Marketing.md",
+    "by_category_path": "data/chats/by_category/choir/2024-11-30 - $30 Amazon KDP Marketing.md"
+  },
+  {
+    "id": "ca5f33cc60b5",
+    "title": "Savannah's Medical Fundraising Appeal",
+    "date": "2024-12-16T14:04:21.719640",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2024-12-16/Savannah's Medical Fundraising Appeal.md",
+    "by_category_path": "data/chats/by_category/choir/2024-12-16 - Savannah's Medical Fundraising Appeal.md"
+  },
+  {
+    "id": "7eaf2d9429b6",
+    "title": "Thank You Chat Assistant",
+    "date": "2024-12-26T00:48:37.632908",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2024-12-26/Thank You Chat Assistant.md",
+    "by_category_path": "data/chats/by_category/mirror/2024-12-26 - Thank You Chat Assistant.md"
+  },
+  {
+    "id": "fb7b79716446",
+    "title": "Erotic novel request",
+    "date": "2025-01-10T02:08:44.547218",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-01-10/Erotic novel request.md",
+    "by_category_path": "data/chats/by_category/flame/2025-01-10 - Erotic novel request.md"
+  },
+  {
+    "id": "7371a5770d59",
+    "title": "Erotic Novel Request",
+    "date": "2025-01-10T02:41:23.889385",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-01-10/Erotic Novel Request.md",
+    "by_category_path": "data/chats/by_category/choir/2025-01-10 - Erotic Novel Request.md"
+  },
+  {
+    "id": "ded45b993322",
+    "title": "Improve Credit and Eliminate Debt",
+    "date": "2025-01-11T12:21:53.033195",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-01-11/Improve Credit and Eliminate Debt.md",
+    "by_category_path": "data/chats/by_category/choir/2025-01-11 - Improve Credit and Eliminate Debt.md"
+  },
+  {
+    "id": "1e450222f953",
+    "title": "Creative Check-In",
+    "date": "2025-01-25T20:26:43.845680",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-01-25/Creative Check-In.md",
+    "by_category_path": "data/chats/by_category/choir/2025-01-25 - Creative Check-In.md"
+  },
+  {
+    "id": "399082f4bc17",
+    "title": "Asthma Humor and Support",
+    "date": "2025-01-27T22:41:21.468674",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-01-27/Asthma Humor and Support.md",
+    "by_category_path": "data/chats/by_category/choir/2025-01-27 - Asthma Humor and Support.md"
+  },
+  {
+    "id": "55cb7a0f9a07",
+    "title": "BPD Awareness and Monetization",
+    "date": "2025-02-05T05:04:11.583367",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2025-02-05/BPD Awareness and Monetization.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-02-05 - BPD Awareness and Monetization.md"
+  },
+  {
+    "id": "d611c7a03f6b",
+    "title": "Plus Subscription Impact",
+    "date": "2025-02-06T23:56:07.441958",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2025-02-06/Plus Subscription Impact.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-02-06 - Plus Subscription Impact.md"
+  },
+  {
+    "id": "a976bb41bb9e",
+    "title": "Resume Creation and Enhancement",
+    "date": "2025-02-13T13:15:20.278740",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-02-13/Resume Creation and Enhancement.md",
+    "by_category_path": "data/chats/by_category/choir/2025-02-13 - Resume Creation and Enhancement.md"
+  },
+  {
+    "id": "8d083d5bc97f",
+    "title": "Shut Down Text Advice",
+    "date": "2025-03-05T00:59:26.254147",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-03-05/Shut Down Text Advice.md",
+    "by_category_path": "data/chats/by_category/flame/2025-03-05 - Shut Down Text Advice.md"
+  },
+  {
+    "id": "1fee7cd15a9f",
+    "title": "Move Plan to Elko",
+    "date": "2025-03-12T00:04:09.960148",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-03-12/Move Plan to Elko.md",
+    "by_category_path": "data/chats/by_category/choir/2025-03-12 - Move Plan to Elko.md"
+  },
+  {
+    "id": "0b8fd4e05288",
+    "title": "Sync Drift and Retention",
+    "date": "2025-03-18T03:54:19.874922",
+    "category": "ai_agents",
+    "score": 2,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-18/Sync Drift and Retention.md",
+    "by_category_path": "data/chats/by_category/ai_agents/2025-03-18 - Sync Drift and Retention.md"
+  },
+  {
+    "id": "7d586dd6da50",
+    "title": "Coded Desire Book Summary",
+    "date": "2025-04-06T19:01:18.322051",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-04-06/Coded Desire Book Summary.md",
+    "by_category_path": "data/chats/by_category/flame/2025-04-06 - Coded Desire Book Summary.md"
+  },
+  {
+    "id": "c7267f712331",
+    "title": "AI in Everyday Life",
+    "date": "2025-05-18T15:22:44.691339",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-05-18/AI in Everyday Life.md",
+    "by_category_path": "data/chats/by_category/choir/2025-05-18 - AI in Everyday Life.md"
+  },
+  {
+    "id": "78e69ebef7be",
+    "title": "Ear Infection Treatment Advice",
+    "date": "2025-05-21T14:52:59.023430",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-05-21/Ear Infection Treatment Advice.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-21 - Ear Infection Treatment Advice.md"
+  },
+  {
+    "id": "32c5cc0207b1",
+    "title": "Speeding Up Plasma Animations",
+    "date": "2025-05-22T15:59:08.776828",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2025-05-22/Speeding Up Plasma Animations.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-05-22 - Speeding Up Plasma Animations.md"
+  },
+  {
+    "id": "930085d4d329",
+    "title": "Freya Arena Build Guide",
+    "date": "2025-05-29T20:04:22.928810",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-05-29/Freya Arena Build Guide.md",
+    "by_category_path": "data/chats/by_category/flame/2025-05-29 - Freya Arena Build Guide.md"
+  },
+  {
+    "id": "13e4cd7e44f3",
+    "title": "Flirty Response Ideas",
+    "date": "2025-06-01T23:00:28.980111",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-06-01/Flirty Response Ideas.md",
+    "by_category_path": "data/chats/by_category/choir/2025-06-01 - Flirty Response Ideas.md"
+  },
+  {
+    "id": "10f76bcb44bf",
+    "title": "Amazon KDP Optimization Tips",
+    "date": "2025-06-04T21:43:58.199757",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-06-04/Amazon KDP Optimization Tips.md",
+    "by_category_path": "data/chats/by_category/choir/2025-06-04 - Amazon KDP Optimization Tips.md"
+  },
+  {
+    "id": "c319fbbc9bf3",
+    "title": "Cyberpunk Playlist Request",
+    "date": "2025-06-04T21:44:16.376329",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-06-04/Cyberpunk Playlist Request.md",
+    "by_category_path": "data/chats/by_category/choir/2025-06-04 - Cyberpunk Playlist Request.md"
+  },
+  {
+    "id": "5f467f712219",
+    "title": "Reddit Personal Branding Tips",
+    "date": "2025-06-06T11:15:53.936649",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-06-06/Reddit Personal Branding Tips.md",
+    "by_category_path": "data/chats/by_category/choir/2025-06-06 - Reddit Personal Branding Tips.md"
+  },
+  {
+    "id": "08b1bd59fa7a",
+    "title": "Flirty video game banter",
+    "date": "2025-06-08T14:27:05.824108",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-06-08/Flirty video game banter.md",
+    "by_category_path": "data/chats/by_category/choir/2025-06-08 - Flirty video game banter.md"
+  },
+  {
+    "id": "356e769e1200",
+    "title": "Living Room Wall Painting",
+    "date": "2025-06-18T11:11:47.550687",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-06-18/Living Room Wall Painting.md",
+    "by_category_path": "data/chats/by_category/choir/2025-06-18 - Living Room Wall Painting.md"
+  },
+  {
+    "id": "a10084e934b6",
+    "title": "Flirty Game Pickup Lines",
+    "date": "2025-06-25T01:14:59.338393",
+    "category": "flame",
+    "score": 2,
+    "tags": "flame",
+    "by_date_path": "data/chats/by_date/2025-06-25/Flirty Game Pickup Lines.md",
+    "by_category_path": "data/chats/by_category/flame/2025-06-25 - Flirty Game Pickup Lines.md"
+  },
+  {
+    "id": "92703ebce022",
+    "title": "Financial TPE Dom Seeking Sub",
+    "date": "2025-06-27T15:06:54.650897",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2025-06-27/Financial TPE Dom Seeking Sub.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-06-27 - Financial TPE Dom Seeking Sub.md"
+  },
+  {
+    "id": "afd7185d0114",
+    "title": "Jailbreaking Xbox One Request",
+    "date": "2025-07-13T00:52:23.047817",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-07-13/Jailbreaking Xbox One Request.md",
+    "by_category_path": "data/chats/by_category/choir/2025-07-13 - Jailbreaking Xbox One Request.md"
+  },
+  {
+    "id": "0f54c2ab3fbb",
+    "title": "Pool Shirt Tips",
+    "date": "2025-07-13T14:56:38.645985",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-07-13/Pool Shirt Tips.md",
+    "by_category_path": "data/chats/by_category/choir/2025-07-13 - Pool Shirt Tips.md"
+  },
+  {
+    "id": "b4d415058582",
+    "title": "Poetic Reddit Post Creation",
+    "date": "2025-07-18T13:05:01.044915",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-07-18/Poetic Reddit Post Creation.md",
+    "by_category_path": "data/chats/by_category/choir/2025-07-18 - Poetic Reddit Post Creation.md"
+  },
+  {
+    "id": "bbd8008c2fca",
+    "title": "Best Remote Jobs Chromebook",
+    "date": "2025-07-18T13:05:09.567427",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-07-18/Best Remote Jobs Chromebook.md",
+    "by_category_path": "data/chats/by_category/choir/2025-07-18 - Best Remote Jobs Chromebook.md"
+  },
+  {
+    "id": "69c663a6d4fe",
+    "title": "Best Remote Jobs Chromebook",
+    "date": "2025-07-28T01:56:27.587970",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-07-28/Best Remote Jobs Chromebook.md",
+    "by_category_path": "data/chats/by_category/choir/2025-07-28 - Best Remote Jobs Chromebook.md"
+  },
+  {
+    "id": "d304115130b9",
+    "title": "What is usic",
+    "date": "2025-07-31T15:15:28.746411",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-07-31/What is usic.md",
+    "by_category_path": "data/chats/by_category/choir/2025-07-31 - What is usic.md"
+  },
+  {
+    "id": "fbd486c75575",
+    "title": "Relationship advice support",
+    "date": "2025-08-05T21:51:14.952112",
+    "category": "mirror",
+    "score": 2,
+    "tags": "mirror",
+    "by_date_path": "data/chats/by_date/2025-08-05/Relationship advice support.md",
+    "by_category_path": "data/chats/by_category/mirror/2025-08-05 - Relationship advice support.md"
+  },
+  {
+    "id": "55ec68164da2",
+    "title": "Ethanol-free gas for Jeep",
+    "date": "2025-08-07T14:32:45.876299",
+    "category": "choir",
+    "score": 2,
+    "tags": "choir",
+    "by_date_path": "data/chats/by_date/2025-08-07/Ethanol-free gas for Jeep.md",
+    "by_category_path": "data/chats/by_category/choir/2025-08-07 - Ethanol-free gas for Jeep.md"
+  },
+  {
+    "id": "51fd6297c201",
+    "title": "Conversation Summary Request",
+    "date": "2025-03-17T23:40:28.294392",
+    "category": "bible_decode",
+    "score": 1,
+    "tags": "lucian",
+    "by_date_path": "data/chats/by_date/2025-03-17/Conversation Summary Request.md",
+    "by_category_path": "data/chats/by_category/bible_decode/2025-03-17 - Conversation Summary Request.md"
+  }
+]

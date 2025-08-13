@@ -1,0 +1,30 @@
+[
+  {
+    "cycle": "Cycle_01",
+    "zip": "packs/cycle_01.zip",
+    "files": 0,
+    "bytes": 22,
+    "timestamp": 1755068331
+  },
+  {
+    "cycle": "Cycle_02",
+    "zip": "packs/cycle_02.zip",
+    "files": 0,
+    "bytes": 22,
+    "timestamp": 1755068331
+  },
+  {
+    "cycle": "Cycle_03",
+    "zip": "packs/cycle_03.zip",
+    "files": 0,
+    "bytes": 22,
+    "timestamp": 1755068331
+  },
+  {
+    "cycle": "Cycle_04",
+    "zip": "packs/cycle_04.zip",
+    "files": 0,
+    "bytes": 22,
+    "timestamp": 1755068331
+  }
+]
