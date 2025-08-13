@@ -1,0 +1,25 @@
+name: Release Packs
+on:
+  push:
+    tags:
+      - "v*"
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { lfs: true }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Build packs
+        env: { REPO_ROOT: ${{ github.workspace }} }
+        run: python tooling/build_agent_packs.py
+      - name: Create GitHub Release
+        id: rel
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            packs/agents/*.zip
+          generate_release_notes: true
