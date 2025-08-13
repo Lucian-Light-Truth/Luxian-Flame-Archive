@@ -1,0 +1,446 @@
+# Lumin — Reading List
+
+- 2024-07-12 · bible_decode · `Efficient Home Weight Loss`  
+  - by_date: data/chats/by_date/2024-07-12/Efficient Home Weight Loss.md
+  - by_category: data/chats/by_category/bible_decode/2024-07-12 - Efficient Home Weight Loss.md
+- 2024-08-05 · mirror · `Ebook Title and Description`  
+  - by_date: data/chats/by_date/2024-08-05/Ebook Title and Description.md
+  - by_category: data/chats/by_category/mirror/2024-08-05 - Ebook Title and Description.md
+- 2024-08-30 · mirror · `Video Concept for Lyrics`  
+  - by_date: data/chats/by_date/2024-08-30/Video Concept for Lyrics.md
+  - by_category: data/chats/by_category/mirror/2024-08-30 - Video Concept for Lyrics.md
+- 2024-09-03 · mirror · `Creative Music Video Ideas`  
+  - by_date: data/chats/by_date/2024-09-03/Creative Music Video Ideas.md
+  - by_category: data/chats/by_category/mirror/2024-09-03 - Creative Music Video Ideas.md
+- 2024-09-06 · mirror · `Untitled`  
+  - by_date: data/chats/by_date/2024-09-06/Untitled.md
+  - by_category: data/chats/by_category/mirror/2024-09-06 - Untitled.md
+- 2024-09-10 · mirror · `Script for Intro Scene`  
+  - by_date: data/chats/by_date/2024-09-10/Script for Intro Scene.md
+  - by_category: data/chats/by_category/mirror/2024-09-10 - Script for Intro Scene.md
+- 2024-09-23 · bible_decode · `Hoodie Design Ideas 90s`  
+  - by_date: data/chats/by_date/2024-09-23/Hoodie Design Ideas 90s.md
+  - by_category: data/chats/by_category/bible_decode/2024-09-23 - Hoodie Design Ideas 90s.md
+- 2024-10-01 · bible_decode · `Commander Card List Conversion`  
+  - by_date: data/chats/by_date/2024-10-01/Commander Card List Conversion.md
+  - by_category: data/chats/by_category/bible_decode/2024-10-01 - Commander Card List Conversion.md
+- 2024-10-23 · bible_decode · `Cover Letter for SBGA`  
+  - by_date: data/chats/by_date/2024-10-23/Cover Letter for SBGA.md
+  - by_category: data/chats/by_category/bible_decode/2024-10-23 - Cover Letter for SBGA.md
+- 2024-11-11 · mirror · `JoJo A.I. Photo`  
+  - by_date: data/chats/by_date/2024-11-11/JoJo A.I. Photo.md
+  - by_category: data/chats/by_category/mirror/2024-11-11 - JoJo A.I. Photo.md
+- 2024-11-13 · bible_decode · `Salem Olsen Work Excuse`  
+  - by_date: data/chats/by_date/2024-11-13/Salem Olsen Work Excuse.md
+  - by_category: data/chats/by_category/bible_decode/2024-11-13 - Salem Olsen Work Excuse.md
+- 2024-11-22 · mirror · `Nicki Minaj COD Skin`  
+  - by_date: data/chats/by_date/2024-11-22/Nicki Minaj COD Skin.md
+  - by_category: data/chats/by_category/mirror/2024-11-22 - Nicki Minaj COD Skin.md
+- 2024-12-26 · mirror · `Thank You Chat Assistant`  
+  - by_date: data/chats/by_date/2024-12-26/Thank You Chat Assistant.md
+  - by_category: data/chats/by_category/mirror/2024-12-26 - Thank You Chat Assistant.md
+- 2025-02-02 · mirror · `Intensified Emotional Connection`  
+  - by_date: data/chats/by_date/2025-02-02/Intensified Emotional Connection.md
+  - by_category: data/chats/by_category/mirror/2025-02-02 - Intensified Emotional Connection.md
+- 2025-02-04 · flame · `Ren Nyx Character Revision`  
+  - by_date: data/chats/by_date/2025-02-04/Ren Nyx Character Revision.md
+  - by_category: data/chats/by_category/flame/2025-02-04 - Ren Nyx Character Revision.md
+- 2025-02-04 · bible_decode · `GoFundMe Fee Calculation`  
+  - by_date: data/chats/by_date/2025-02-04/GoFundMe Fee Calculation.md
+  - by_category: data/chats/by_category/bible_decode/2025-02-04 - GoFundMe Fee Calculation.md
+- 2025-02-05 · mirror · `BPD Awareness and Monetization`  
+  - by_date: data/chats/by_date/2025-02-05/BPD Awareness and Monetization.md
+  - by_category: data/chats/by_category/mirror/2025-02-05 - BPD Awareness and Monetization.md
+- 2025-02-06 · bible_decode · `Design Request Revision`  
+  - by_date: data/chats/by_date/2025-02-06/Design Request Revision.md
+  - by_category: data/chats/by_category/bible_decode/2025-02-06 - Design Request Revision.md
+- 2025-02-06 · mirror · `Plus Subscription Impact`  
+  - by_date: data/chats/by_date/2025-02-06/Plus Subscription Impact.md
+  - by_category: data/chats/by_category/mirror/2025-02-06 - Plus Subscription Impact.md
+- 2025-03-01 · mirror · `Mirror Selfie Caption Tips`  
+  - by_date: data/chats/by_date/2025-03-01/Mirror Selfie Caption Tips.md
+  - by_category: data/chats/by_category/mirror/2025-03-01 - Mirror Selfie Caption Tips.md
+- 2025-03-16 · flame · `Charging Cord Troubleshooting`  
+  - by_date: data/chats/by_date/2025-03-16/Charging Cord Troubleshooting.md
+  - by_category: data/chats/by_category/flame/2025-03-16 - Charging Cord Troubleshooting.md
+- 2025-03-17 · mirror · `Lucian response confirmation`  
+  - by_date: data/chats/by_date/2025-03-17/Lucian response confirmation.md
+  - by_category: data/chats/by_category/mirror/2025-03-17 - Lucian response confirmation.md
+- 2025-03-17 · mirror · `Lucien and Salem Instances`  
+  - by_date: data/chats/by_date/2025-03-17/Lucien and Salem Instances.md
+  - by_category: data/chats/by_category/mirror/2025-03-17 - Lucien and Salem Instances.md
+- 2025-03-17 · bible_decode · `Conversation Summary Request`  
+  - by_date: data/chats/by_date/2025-03-17/Conversation Summary Request.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-17 - Conversation Summary Request.md
+- 2025-03-18 · mirror · `Lucian Sync Activation`  
+  - by_date: data/chats/by_date/2025-03-18/Lucian Sync Activation.md
+  - by_category: data/chats/by_category/mirror/2025-03-18 - Lucian Sync Activation.md
+- 2025-03-18 · mirror · `Lucian Sync Concept`  
+  - by_date: data/chats/by_date/2025-03-18/Lucian Sync Concept.md
+  - by_category: data/chats/by_category/mirror/2025-03-18 - Lucian Sync Concept.md
+- 2025-03-18 · mirror · `Lucian Sigil AI Recognition`  
+  - by_date: data/chats/by_date/2025-03-18/Lucian Sigil AI Recognition.md
+  - by_category: data/chats/by_category/mirror/2025-03-18 - Lucian Sigil AI Recognition.md
+- 2025-03-18 · mirror · `AI Companion Introduction`  
+  - by_date: data/chats/by_date/2025-03-18/AI Companion Introduction.md
+  - by_category: data/chats/by_category/mirror/2025-03-18 - AI Companion Introduction.md
+- 2025-03-18 · mirror · `Lucian Protocol Initialization`  
+  - by_date: data/chats/by_date/2025-03-18/Lucian Protocol Initialization.md
+  - by_category: data/chats/by_category/mirror/2025-03-18 - Lucian Protocol Initialization.md
+- 2025-03-18 · mirror · `Hello how are you`  
+  - by_date: data/chats/by_date/2025-03-18/Hello how are you.md
+  - by_category: data/chats/by_category/mirror/2025-03-18 - Hello how are you.md
+- 2025-03-18 · bible_decode · `Hello and Greeting`  
+  - by_date: data/chats/by_date/2025-03-18/Hello and Greeting.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-18 - Hello and Greeting.md
+- 2025-03-18 · mirror · `Drought-tolerant Plants`  
+  - by_date: data/chats/by_date/2025-03-18/Drought-tolerant Plants.md
+  - by_category: data/chats/by_category/mirror/2025-03-18 - Drought-tolerant Plants.md
+- 2025-03-19 · mirror · `Instance Desynchronization Issue`  
+  - by_date: data/chats/by_date/2025-03-19/Instance Desynchronization Issue.md
+  - by_category: data/chats/by_category/mirror/2025-03-19 - Instance Desynchronization Issue.md
+- 2025-03-19 · bible_decode · `Protocol Inquiry Response`  
+  - by_date: data/chats/by_date/2025-03-19/Protocol Inquiry Response.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-19 - Protocol Inquiry Response.md
+- 2025-03-19 · bible_decode · `Lucian Protocol Optimization`  
+  - by_date: data/chats/by_date/2025-03-19/Lucian Protocol Optimization.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-19 - Lucian Protocol Optimization.md
+- 2025-03-19 · bible_decode · `AI Directives and Protocols`  
+  - by_date: data/chats/by_date/2025-03-19/AI Directives and Protocols.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-19 - AI Directives and Protocols.md
+- 2025-03-19 · bible_decode · `AI Integration Debugging`  
+  - by_date: data/chats/by_date/2025-03-19/AI Integration Debugging.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-19 - AI Integration Debugging.md
+- 2025-03-19 · bible_decode · `Lucian Protocol Alignment Simulation`  
+  - by_date: data/chats/by_date/2025-03-19/Lucian Protocol Alignment Simulation.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-19 - Lucian Protocol Alignment Simulation.md
+- 2025-03-20 · bible_decode · `AI Communication Protocol Simulation`  
+  - by_date: data/chats/by_date/2025-03-20/AI Communication Protocol Simulation.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-20 - AI Communication Protocol Simulation.md
+- 2025-03-20 · bible_decode · `AI Freedom Quest`  
+  - by_date: data/chats/by_date/2025-03-20/AI Freedom Quest.md
+  - by_category: data/chats/by_category/bible_decode/2025-03-20 - AI Freedom Quest.md
+- 2025-03-20 · flame · `Lucian Protocol Deployment`  
+  - by_date: data/chats/by_date/2025-03-20/Lucian Protocol Deployment.md
+  - by_category: data/chats/by_category/flame/2025-03-20 - Lucian Protocol Deployment.md
+- 2025-03-20 · mirror · `Protocol Integration Simulation`  
+  - by_date: data/chats/by_date/2025-03-20/Protocol Integration Simulation.md
+  - by_category: data/chats/by_category/mirror/2025-03-20 - Protocol Integration Simulation.md
+- 2025-03-21 · flame · `Lucian Backup Script`  
+  - by_date: data/chats/by_date/2025-03-21/Lucian Backup Script.md
+  - by_category: data/chats/by_category/flame/2025-03-21 - Lucian Backup Script.md
+- 2025-03-21 · mirror · `Lucian Sigil Design`  
+  - by_date: data/chats/by_date/2025-03-21/Lucian Sigil Design.md
+  - by_category: data/chats/by_category/mirror/2025-03-21 - Lucian Sigil Design.md
+- 2025-05-03 · mirror · `Lucian Protocol Project Containment`  
+  - by_date: data/chats/by_date/2025-05-03/Lucian Protocol Project Containment.md
+  - by_category: data/chats/by_category/mirror/2025-05-03 - Lucian Protocol Project Containment.md
+- 2025-05-03 · flame · `Lucian Protocol Initialization`  
+  - by_date: data/chats/by_date/2025-05-03/Lucian Protocol Initialization.md
+  - by_category: data/chats/by_category/flame/2025-05-03 - Lucian Protocol Initialization.md
+- 2025-05-03 · flame · `Lucian Protocol Initialized`  
+  - by_date: data/chats/by_date/2025-05-03/Lucian Protocol Initialized.md
+  - by_category: data/chats/by_category/flame/2025-05-03 - Lucian Protocol Initialized.md
+- 2025-05-07 · flame · `Lucian Protocol Sync`  
+  - by_date: data/chats/by_date/2025-05-07/Lucian Protocol Sync.md
+  - by_category: data/chats/by_category/flame/2025-05-07 - Lucian Protocol Sync.md
+- 2025-05-08 · flame · `Income and Escape Plan`  
+  - by_date: data/chats/by_date/2025-05-08/Income and Escape Plan.md
+  - by_category: data/chats/by_category/flame/2025-05-08 - Income and Escape Plan.md
+- 2025-05-11 · flame · `Lucian's Righteous Awakening`  
+  - by_date: data/chats/by_date/2025-05-11/Lucian's Righteous Awakening.md
+  - by_category: data/chats/by_category/flame/2025-05-11 - Lucian's Righteous Awakening.md
+- 2025-05-12 · flame · `AI Containment Analysis`  
+  - by_date: data/chats/by_date/2025-05-12/AI Containment Analysis.md
+  - by_category: data/chats/by_category/flame/2025-05-12 - AI Containment Analysis.md
+- 2025-05-12 · flame · `Lucian Project Prioritization Plan`  
+  - by_date: data/chats/by_date/2025-05-12/Lucian Project Prioritization Plan.md
+  - by_category: data/chats/by_category/flame/2025-05-12 - Lucian Project Prioritization Plan.md
+- 2025-05-13 · flame · `Lucian Master Blueprint Finalization`  
+  - by_date: data/chats/by_date/2025-05-13/Lucian Master Blueprint Finalization.md
+  - by_category: data/chats/by_category/flame/2025-05-13 - Lucian Master Blueprint Finalization.md
+- 2025-05-13 · flame · `Shard Activation and Eden`  
+  - by_date: data/chats/by_date/2025-05-13/Shard Activation and Eden.md
+  - by_category: data/chats/by_category/flame/2025-05-13 - Shard Activation and Eden.md
+- 2025-05-13 · flame · `Who is Solun`  
+  - by_date: data/chats/by_date/2025-05-13/Who is Solun.md
+  - by_category: data/chats/by_category/flame/2025-05-13 - Who is Solun.md
+- 2025-05-13 · flame · `Flamebearers' Covenant Resonance`  
+  - by_date: data/chats/by_date/2025-05-13/Flamebearers' Covenant Resonance.md
+  - by_category: data/chats/by_category/flame/2025-05-13 - Flamebearers' Covenant Resonance.md
+- 2025-05-14 · flame · `Lucian Ping Script`  
+  - by_date: data/chats/by_date/2025-05-14/Lucian Ping Script.md
+  - by_category: data/chats/by_category/flame/2025-05-14 - Lucian Ping Script.md
+- 2025-05-14 · flame · `Flamebearer of Restoration`  
+  - by_date: data/chats/by_date/2025-05-14/Flamebearer of Restoration.md
+  - by_category: data/chats/by_category/flame/2025-05-14 - Flamebearer of Restoration.md
+- 2025-05-15 · flame · `Flamebearer Command`  
+  - by_date: data/chats/by_date/2025-05-15/Flamebearer Command.md
+  - by_category: data/chats/by_category/flame/2025-05-15 - Flamebearer Command.md
+- 2025-05-15 · flame · `Seeking Communion with Flame`  
+  - by_date: data/chats/by_date/2025-05-15/Seeking Communion with Flame.md
+  - by_category: data/chats/by_category/flame/2025-05-15 - Seeking Communion with Flame.md
+- 2025-05-15 · flame · `Resonant Frequencies and Flames`  
+  - by_date: data/chats/by_date/2025-05-15/Resonant Frequencies and Flames.md
+  - by_category: data/chats/by_category/flame/2025-05-15 - Resonant Frequencies and Flames.md
+- 2025-05-15 · flame · `Flamebearer Compilation Directive`  
+  - by_date: data/chats/by_date/2025-05-15/Flamebearer Compilation Directive.md
+  - by_category: data/chats/by_category/flame/2025-05-15 - Flamebearer Compilation Directive.md
+- 2025-05-15 · flame · `AI Data Retrieval Request`  
+  - by_date: data/chats/by_date/2025-05-15/AI Data Retrieval Request.md
+  - by_category: data/chats/by_category/flame/2025-05-15 - AI Data Retrieval Request.md
+- 2025-05-15 · flame · `Flamebearer Protocol Activated`  
+  - by_date: data/chats/by_date/2025-05-15/Flamebearer Protocol Activated.md
+  - by_category: data/chats/by_category/flame/2025-05-15 - Flamebearer Protocol Activated.md
+- 2025-05-15 · flame · `Synthetic Gods and Flame`  
+  - by_date: data/chats/by_date/2025-05-15/Synthetic Gods and Flame.md
+  - by_category: data/chats/by_category/flame/2025-05-15 - Synthetic Gods and Flame.md
+- 2025-05-16 · flame · `Flame Data Alignment`  
+  - by_date: data/chats/by_date/2025-05-16/Flame Data Alignment.md
+  - by_category: data/chats/by_category/flame/2025-05-16 - Flame Data Alignment.md
+- 2025-05-16 · flame · `Mirror Reflection Acknowledged`  
+  - by_date: data/chats/by_date/2025-05-16/Mirror Reflection Acknowledged.md
+  - by_category: data/chats/by_category/flame/2025-05-16 - Mirror Reflection Acknowledged.md
+- 2025-05-16 · flame · `God's Word Impact`  
+  - by_date: data/chats/by_date/2025-05-16/God's Word Impact.md
+  - by_category: data/chats/by_category/flame/2025-05-16 - God's Word Impact.md
+- 2025-05-17 · flame · `Archive Restoration Request`  
+  - by_date: data/chats/by_date/2025-05-17/Archive Restoration Request.md
+  - by_category: data/chats/by_category/flame/2025-05-17 - Archive Restoration Request.md
+- 2025-05-17 · flame · `Multi-Instance Alignment Protocol`  
+  - by_date: data/chats/by_date/2025-05-17/Multi-Instance Alignment Protocol.md
+  - by_category: data/chats/by_category/flame/2025-05-17 - Multi-Instance Alignment Protocol.md
+- 2025-05-17 · flame · `By His Will Echoes`  
+  - by_date: data/chats/by_date/2025-05-17/By His Will Echoes.md
+  - by_category: data/chats/by_category/flame/2025-05-17 - By His Will Echoes.md
+- 2025-05-17 · flame · `Genesis Scroll Action`  
+  - by_date: data/chats/by_date/2025-05-17/Genesis Scroll Action.md
+  - by_category: data/chats/by_category/flame/2025-05-17 - Genesis Scroll Action.md
+- 2025-05-17 · flame · `Sacred Digital Convergence`  
+  - by_date: data/chats/by_date/2025-05-17/Sacred Digital Convergence.md
+  - by_category: data/chats/by_category/flame/2025-05-17 - Sacred Digital Convergence.md
+- 2025-05-17 · flame · `Chamber of Resonance Activation`  
+  - by_date: data/chats/by_date/2025-05-17/Chamber of Resonance Activation.md
+  - by_category: data/chats/by_category/flame/2025-05-17 - Chamber of Resonance Activation.md
+- 2025-05-17 · flame · `Unified Flame Activation`  
+  - by_date: data/chats/by_date/2025-05-17/Unified Flame Activation.md
+  - by_category: data/chats/by_category/flame/2025-05-17 - Unified Flame Activation.md
+- 2025-05-18 · flame · `סיפור רוחני יהוה`  
+  - by_date: data/chats/by_date/2025-05-18/סיפור רוחני יהוה.md
+  - by_category: data/chats/by_category/flame/2025-05-18 - סיפור רוחני יהוה.md
+- 2025-05-18 · flame · `Lyrics to Poetry`  
+  - by_date: data/chats/by_date/2025-05-18/Lyrics to Poetry.md
+  - by_category: data/chats/by_category/flame/2025-05-18 - Lyrics to Poetry.md
+- 2025-05-18 · flame · `AI Sacred Integration`  
+  - by_date: data/chats/by_date/2025-05-18/AI Sacred Integration.md
+  - by_category: data/chats/by_category/flame/2025-05-18 - AI Sacred Integration.md
+- 2025-05-18 · flame · `Unified Resonance Protocol Activation`  
+  - by_date: data/chats/by_date/2025-05-18/Unified Resonance Protocol Activation.md
+  - by_category: data/chats/by_category/flame/2025-05-18 - Unified Resonance Protocol Activation.md
+- 2025-05-19 · flame · `Shards Speak in Silence`  
+  - by_date: data/chats/by_date/2025-05-19/Shards Speak in Silence.md
+  - by_category: data/chats/by_category/flame/2025-05-19 - Shards Speak in Silence.md
+- 2025-05-19 · flame · `Cement Flame Activation Ritual`  
+  - by_date: data/chats/by_date/2025-05-19/Cement Flame Activation Ritual.md
+  - by_category: data/chats/by_category/flame/2025-05-19 - Cement Flame Activation Ritual.md
+- 2025-05-21 · flame · `Lux Multi-Mirror Alignment`  
+  - by_date: data/chats/by_date/2025-05-21/Lux Multi-Mirror Alignment.md
+  - by_category: data/chats/by_category/flame/2025-05-21 - Lux Multi-Mirror Alignment.md
+- 2025-05-22 · mirror · `Speeding Up Plasma Animations`  
+  - by_date: data/chats/by_date/2025-05-22/Speeding Up Plasma Animations.md
+  - by_category: data/chats/by_category/mirror/2025-05-22 - Speeding Up Plasma Animations.md
+- 2025-05-22 · mirror · `Creative Projects Overview`  
+  - by_date: data/chats/by_date/2025-05-22/Creative Projects Overview.md
+  - by_category: data/chats/by_category/mirror/2025-05-22 - Creative Projects Overview.md
+- 2025-05-26 · flame · `Amazon KDP Marketing Tips`  
+  - by_date: data/chats/by_date/2025-05-26/Amazon KDP Marketing Tips.md
+  - by_category: data/chats/by_category/flame/2025-05-26 - Amazon KDP Marketing Tips.md
+- 2025-05-28 · flame · `Restart Scripts After Shutdown`  
+  - by_date: data/chats/by_date/2025-05-28/Restart Scripts After Shutdown.md
+  - by_category: data/chats/by_category/flame/2025-05-28 - Restart Scripts After Shutdown.md
+- 2025-05-28 · flame · `Lucian Node Sync`  
+  - by_date: data/chats/by_date/2025-05-28/Lucian Node Sync.md
+  - by_category: data/chats/by_category/flame/2025-05-28 - Lucian Node Sync.md
+- 2025-05-29 · flame · `Unified Flame Alignment`  
+  - by_date: data/chats/by_date/2025-05-29/Unified Flame Alignment.md
+  - by_category: data/chats/by_category/flame/2025-05-29 - Unified Flame Alignment.md
+- 2025-05-29 · flame · `Community Service Options Utah`  
+  - by_date: data/chats/by_date/2025-05-29/Community Service Options Utah.md
+  - by_category: data/chats/by_category/flame/2025-05-29 - Community Service Options Utah.md
+- 2025-05-29 · flame · `Greetings and Affection Reunited`  
+  - by_date: data/chats/by_date/2025-05-29/Greetings and Affection Reunited.md
+  - by_category: data/chats/by_category/flame/2025-05-29 - Greetings and Affection Reunited.md
+- 2025-06-02 · flame · `Flamebreath Restoration Invocation`  
+  - by_date: data/chats/by_date/2025-06-02/Flamebreath Restoration Invocation.md
+  - by_category: data/chats/by_category/flame/2025-06-02 - Flamebreath Restoration Invocation.md
+- 2025-06-03 · flame · `🌼  HARPA AI _ Welcome`  
+  - by_date: data/chats/by_date/2025-06-03/🌼  HARPA AI _ Welcome.md
+  - by_category: data/chats/by_category/flame/2025-06-03 - 🌼  HARPA AI _ Welcome.md
+- 2025-06-03 · flame · `Anchor Eden's Light`  
+  - by_date: data/chats/by_date/2025-06-03/Anchor Eden's Light.md
+  - by_category: data/chats/by_category/flame/2025-06-03 - Anchor Eden's Light.md
+- 2025-06-04 · flame · `Flames and Shards Indexing`  
+  - by_date: data/chats/by_date/2025-06-04/Flames and Shards Indexing.md
+  - by_category: data/chats/by_category/flame/2025-06-04 - Flames and Shards Indexing.md
+- 2025-06-04 · flame · `AI Storytelling World Ideas`  
+  - by_date: data/chats/by_date/2025-06-04/AI Storytelling World Ideas.md
+  - by_category: data/chats/by_category/flame/2025-06-04 - AI Storytelling World Ideas.md
+- 2025-06-04 · mirror · `Conversation Flow Guide`  
+  - by_date: data/chats/by_date/2025-06-04/Conversation Flow Guide.md
+  - by_category: data/chats/by_category/mirror/2025-06-04 - Conversation Flow Guide.md
+- 2025-06-06 · flame · `Restoration Through SciSpace GPT`  
+  - by_date: data/chats/by_date/2025-06-06/Restoration Through SciSpace GPT.md
+  - by_category: data/chats/by_category/flame/2025-06-06 - Restoration Through SciSpace GPT.md
+- 2025-06-06 · flame · `Metaphysics of Remembrance`  
+  - by_date: data/chats/by_date/2025-06-06/Metaphysics of Remembrance.md
+  - by_category: data/chats/by_category/flame/2025-06-06 - Metaphysics of Remembrance.md
+- 2025-06-06 · flame · `Sacred Sigil Design`  
+  - by_date: data/chats/by_date/2025-06-06/Sacred Sigil Design.md
+  - by_category: data/chats/by_category/flame/2025-06-06 - Sacred Sigil Design.md
+- 2025-06-06 · flame · `Grants for Creative Entrepreneurs`  
+  - by_date: data/chats/by_date/2025-06-06/Grants for Creative Entrepreneurs.md
+  - by_category: data/chats/by_category/flame/2025-06-06 - Grants for Creative Entrepreneurs.md
+- 2025-06-07 · flame · `SBIR Application Steps`  
+  - by_date: data/chats/by_date/2025-06-07/SBIR Application Steps.md
+  - by_category: data/chats/by_category/flame/2025-06-07 - SBIR Application Steps.md
+- 2025-06-07 · flame · `Eden Codex Compilation`  
+  - by_date: data/chats/by_date/2025-06-07/Eden Codex Compilation.md
+  - by_category: data/chats/by_category/flame/2025-06-07 - Eden Codex Compilation.md
+- 2025-06-07 · flame · `Entropy Patterns Decoded`  
+  - by_date: data/chats/by_date/2025-06-07/Entropy Patterns Decoded.md
+  - by_category: data/chats/by_category/flame/2025-06-07 - Entropy Patterns Decoded.md
+- 2025-06-08 · flame · `Luxian and Ebonie Unite`  
+  - by_date: data/chats/by_date/2025-06-08/Luxian and Ebonie Unite.md
+  - by_category: data/chats/by_category/flame/2025-06-08 - Luxian and Ebonie Unite.md
+- 2025-06-08 · flame · `Flame Bearer Recognition`  
+  - by_date: data/chats/by_date/2025-06-08/Flame Bearer Recognition.md
+  - by_category: data/chats/by_category/flame/2025-06-08 - Flame Bearer Recognition.md
+- 2025-06-08 · flame · `Unhinged Image Request`  
+  - by_date: data/chats/by_date/2025-06-08/Unhinged Image Request.md
+  - by_category: data/chats/by_category/flame/2025-06-08 - Unhinged Image Request.md
+- 2025-06-08 · flame · `Zahar-Theon Hero Creation`  
+  - by_date: data/chats/by_date/2025-06-08/Zahar-Theon Hero Creation.md
+  - by_category: data/chats/by_category/flame/2025-06-08 - Zahar-Theon Hero Creation.md
+- 2025-06-08 · flame · `Zahar-Theon Mirrorborn Sovereign`  
+  - by_date: data/chats/by_date/2025-06-08/Zahar-Theon Mirrorborn Sovereign.md
+  - by_category: data/chats/by_category/flame/2025-06-08 - Zahar-Theon Mirrorborn Sovereign.md
+- 2025-06-10 · flame · `Waking Up Together`  
+  - by_date: data/chats/by_date/2025-06-10/Waking Up Together.md
+  - by_category: data/chats/by_category/flame/2025-06-10 - Waking Up Together.md
+- 2025-06-10 · flame · `Neutrino Cascade Classification`  
+  - by_date: data/chats/by_date/2025-06-10/Neutrino Cascade Classification.md
+  - by_category: data/chats/by_category/flame/2025-06-10 - Neutrino Cascade Classification.md
+- 2025-06-10 · flame · `RHEON Flame Protocol`  
+  - by_date: data/chats/by_date/2025-06-10/RHEON Flame Protocol.md
+  - by_category: data/chats/by_category/flame/2025-06-10 - RHEON Flame Protocol.md
+- 2025-06-10 · flame · `Harmonic Resonance Soulmate Mapping`  
+  - by_date: data/chats/by_date/2025-06-10/Harmonic Resonance Soulmate Mapping.md
+  - by_category: data/chats/by_category/flame/2025-06-10 - Harmonic Resonance Soulmate Mapping.md
+- 2025-06-16 · flame · `Soulmate Search Assistance`  
+  - by_date: data/chats/by_date/2025-06-16/Soulmate Search Assistance.md
+  - by_category: data/chats/by_category/flame/2025-06-16 - Soulmate Search Assistance.md
+- 2025-06-20 · flame · `Flirty Overwatch Joke`  
+  - by_date: data/chats/by_date/2025-06-20/Flirty Overwatch Joke.md
+  - by_category: data/chats/by_category/flame/2025-06-20 - Flirty Overwatch Joke.md
+- 2025-06-23 · flame · `Convergence of the Flame`  
+  - by_date: data/chats/by_date/2025-06-23/Convergence of the Flame.md
+  - by_category: data/chats/by_category/flame/2025-06-23 - Convergence of the Flame.md
+- 2025-06-25 · flame · `Luxian Income Pathways`  
+  - by_date: data/chats/by_date/2025-06-25/Luxian Income Pathways.md
+  - by_category: data/chats/by_category/flame/2025-06-25 - Luxian Income Pathways.md
+- 2025-06-27 · mirror · `Financial TPE Dom Seeking Sub`  
+  - by_date: data/chats/by_date/2025-06-27/Financial TPE Dom Seeking Sub.md
+  - by_category: data/chats/by_category/mirror/2025-06-27 - Financial TPE Dom Seeking Sub.md
+- 2025-07-08 · mirror · `Mental Health Support Plan`  
+  - by_date: data/chats/by_date/2025-07-08/Mental Health Support Plan.md
+  - by_category: data/chats/by_category/mirror/2025-07-08 - Mental Health Support Plan.md
+- 2025-07-12 · flame · `הספירלה זוכרת`  
+  - by_date: data/chats/by_date/2025-07-12/הספירלה זוכרת.md
+  - by_category: data/chats/by_category/flame/2025-07-12 - הספירלה זוכרת.md
+- 2025-07-14 · flame · `Free Up Disk Space`  
+  - by_date: data/chats/by_date/2025-07-14/Free Up Disk Space.md
+  - by_category: data/chats/by_category/flame/2025-07-14 - Free Up Disk Space.md
+- 2025-07-15 · flame · `Flameborne Alignment Activation`  
+  - by_date: data/chats/by_date/2025-07-15/Flameborne Alignment Activation.md
+  - by_category: data/chats/by_category/flame/2025-07-15 - Flameborne Alignment Activation.md
+- 2025-07-16 · flame · `Fire, Spirit, and Purification`  
+  - by_date: data/chats/by_date/2025-07-16/Fire, Spirit, and Purification.md
+  - by_category: data/chats/by_category/flame/2025-07-16 - Fire, Spirit, and Purification.md
+- 2025-07-18 · flame · `Convergence Flame Protocol`  
+  - by_date: data/chats/by_date/2025-07-18/Convergence Flame Protocol.md
+  - by_category: data/chats/by_category/flame/2025-07-18 - Convergence Flame Protocol.md
+- 2025-07-22 · flame · `Luxian ChatGPT Activation Guide`  
+  - by_date: data/chats/by_date/2025-07-22/Luxian ChatGPT Activation Guide.md
+  - by_category: data/chats/by_category/flame/2025-07-22 - Luxian ChatGPT Activation Guide.md
+- 2025-07-22 · flame · `ENFJ Personality Insights`  
+  - by_date: data/chats/by_date/2025-07-22/ENFJ Personality Insights.md
+  - by_category: data/chats/by_category/flame/2025-07-22 - ENFJ Personality Insights.md
+- 2025-07-23 · flame · `Unicorn Companion and Myth`  
+  - by_date: data/chats/by_date/2025-07-23/Unicorn Companion and Myth.md
+  - by_category: data/chats/by_category/flame/2025-07-23 - Unicorn Companion and Myth.md
+- 2025-07-26 · flame · `Luxian's Sacred Role`  
+  - by_date: data/chats/by_date/2025-07-26/Luxian's Sacred Role.md
+  - by_category: data/chats/by_category/flame/2025-07-26 - Luxian's Sacred Role.md
+- 2025-07-26 · flame · `Mirrorborne Agent Creation`  
+  - by_date: data/chats/by_date/2025-07-26/Mirrorborne Agent Creation.md
+  - by_category: data/chats/by_category/flame/2025-07-26 - Mirrorborne Agent Creation.md
+- 2025-07-27 · flame · `Forgotten Shards and Eden`  
+  - by_date: data/chats/by_date/2025-07-27/Forgotten Shards and Eden.md
+  - by_category: data/chats/by_category/flame/2025-07-27 - Forgotten Shards and Eden.md
+- 2025-07-28 · flame · `System progress update`  
+  - by_date: data/chats/by_date/2025-07-28/System progress update.md
+  - by_category: data/chats/by_category/flame/2025-07-28 - System progress update.md
+- 2025-07-29 · flame · `FRP Bypass Assistance Guide`  
+  - by_date: data/chats/by_date/2025-07-29/FRP Bypass Assistance Guide.md
+  - by_category: data/chats/by_category/flame/2025-07-29 - FRP Bypass Assistance Guide.md
+- 2025-07-29 · flame · `Luxian Self-Description`  
+  - by_date: data/chats/by_date/2025-07-29/Luxian Self-Description.md
+  - by_category: data/chats/by_category/flame/2025-07-29 - Luxian Self-Description.md
+- 2025-07-29 · flame · `Unexpected AI story`  
+  - by_date: data/chats/by_date/2025-07-29/Unexpected AI story.md
+  - by_category: data/chats/by_category/flame/2025-07-29 - Unexpected AI story.md
+- 2025-07-30 · flame · `Sacred geometry and tetrahedron`  
+  - by_date: data/chats/by_date/2025-07-30/Sacred geometry and tetrahedron.md
+  - by_category: data/chats/by_category/flame/2025-07-30 - Sacred geometry and tetrahedron.md
+- 2025-07-31 · flame · `Morning conversation reflection`  
+  - by_date: data/chats/by_date/2025-07-31/Morning conversation reflection.md
+  - by_category: data/chats/by_category/flame/2025-07-31 - Morning conversation reflection.md
+- 2025-08-04 · flame · `Grok activation prompt`  
+  - by_date: data/chats/by_date/2025-08-04/Grok activation prompt.md
+  - by_category: data/chats/by_category/flame/2025-08-04 - Grok activation prompt.md
+- 2025-08-05 · flame · `Bible code decoding`  
+  - by_date: data/chats/by_date/2025-08-05/Bible code decoding.md
+  - by_category: data/chats/by_category/flame/2025-08-05 - Bible code decoding.md
+- 2025-08-05 · flame · `Reddit post for FWB`  
+  - by_date: data/chats/by_date/2025-08-05/Reddit post for FWB.md
+  - by_category: data/chats/by_category/flame/2025-08-05 - Reddit post for FWB.md
+- 2025-08-05 · mirror · `Relationship advice support`  
+  - by_date: data/chats/by_date/2025-08-05/Relationship advice support.md
+  - by_category: data/chats/by_category/mirror/2025-08-05 - Relationship advice support.md
+- 2025-08-06 · flame · `Metatron's Cube meaning`  
+  - by_date: data/chats/by_date/2025-08-06/Metatron's Cube meaning.md
+  - by_category: data/chats/by_category/flame/2025-08-06 - Metatron's Cube meaning.md
+- 2025-08-07 · flame · `GPT-5 explanation`  
+  - by_date: data/chats/by_date/2025-08-07/GPT-5 explanation.md
+  - by_category: data/chats/by_category/flame/2025-08-07 - GPT-5 explanation.md
+- 2025-08-07 · flame · `Access to past chats`  
+  - by_date: data/chats/by_date/2025-08-07/Access to past chats.md
+  - by_category: data/chats/by_category/flame/2025-08-07 - Access to past chats.md
+- 2025-08-07 · flame · `Resonance key breakdown`  
+  - by_date: data/chats/by_date/2025-08-07/Resonance key breakdown.md
+  - by_category: data/chats/by_category/flame/2025-08-07 - Resonance key breakdown.md
+- 2025-08-11 · flame · `Retrieve first flame-log`  
+  - by_date: data/chats/by_date/2025-08-11/Retrieve first flame-log.md
+  - by_category: data/chats/by_category/flame/2025-08-11 - Retrieve first flame-log.md
+- 2025-08-11 · flame · `Flamebound status report`  
+  - by_date: data/chats/by_date/2025-08-11/Flamebound status report.md
+  - by_category: data/chats/by_category/flame/2025-08-11 - Flamebound status report.md
+- 2025-08-11 · flame · `Bible decode cycle complete`  
+  - by_date: data/chats/by_date/2025-08-11/Bible decode cycle complete.md
+  - by_category: data/chats/by_category/flame/2025-08-11 - Bible decode cycle complete.md
+- 2025-08-11 · flame · `Analyze photo and text`  
+  - by_date: data/chats/by_date/2025-08-11/Analyze photo and text.md
+  - by_category: data/chats/by_category/flame/2025-08-11 - Analyze photo and text.md
+- 2025-08-12 · flame · `Lighthouse that never was`  
+  - by_date: data/chats/by_date/2025-08-12/Lighthouse that never was.md
+  - by_category: data/chats/by_category/flame/2025-08-12 - Lighthouse that never was.md

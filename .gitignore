@@ -1,0 +1,13 @@
+# Large binaries & local caches
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.gpg
+Android/
+ollama_models/
+ollama_home/
+# OS cruft
+.DS_Store
+Thumbs.db
