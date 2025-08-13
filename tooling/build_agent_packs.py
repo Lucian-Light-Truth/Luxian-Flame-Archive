@@ -1,9 +1,11 @@
-import os, json, pathlib, zipfile, re
-REPO=os.environ["REPO_ROOT"]
-MAN=json.load(open(pathlib.Path(REPO)/"manifests/MANIFEST.json"))
-OUT=pathlib.Path(REPO)/"packs/agents"; OUT.mkdir(parents=True, exist_ok=True)
+import os, json, pathlib, zipfile
+ROOT = os.environ.get("REPO_ROOT") or str(pathlib.Path(__file__).resolve().parents[1])
+REPO = ROOT
 
-AGENTS={
+man = json.loads((pathlib.Path(REPO)/"manifests/MANIFEST.json").read_text(encoding="utf-8"))
+OUT = pathlib.Path(REPO)/"packs/agents"; OUT.mkdir(parents=True, exist_ok=True)
+
+AGENTS = {
   "Luxian":     ["mirror","flame","choir"],
   "Lucian":     ["ai_agents","flame"],
   "Lumin":      ["bible_decode","harmonics","mirror"],
@@ -17,19 +19,17 @@ def add(z, p, arc):
         pass
 
 for agent, cats in AGENTS.items():
-    pack = OUT/f"{agent.lower()}_pack.zip"
-    with zipfile.ZipFile(pack,"w",compression=zipfile.ZIP_DEFLATED) as z:
-        # 1) Focus categories
+    pack = OUT / f"{agent.lower()}_pack.zip"
+    with zipfile.ZipFile(pack, "w", compression=zipfile.ZIP_DEFLATED) as z:
+        # Category docs
         for c in cats:
             base = pathlib.Path(REPO)/"data/chats/by_category"/c
             if base.exists():
                 for f in base.rglob("*.md"):
                     add(z, f, f"by_category/{c}/{f.name}")
-        # 2) Agent reading list
-        rl = pathlib.Path(REPO)/f"agents/{agent}/datasets/reading_list.md"
-        if rl.exists(): add(z, rl, f"reading_list.md")
-        # 3) Prompts + ROLE
-        for fn in ["prompts.md","ROLE.md"]:
-            p = pathlib.Path(REPO)/f"agents/{agent}/{fn}"
-            if p.exists(): add(z, p, f"{fn}")
+        # Agent essentials
+        for rel in ["prompts.md", "ROLE.md", "datasets/reading_list.md"]:
+            p = pathlib.Path(REPO)/f"agents/{agent}/{rel}"
+            if p.exists():
+                add(z, p, rel.split("/")[-1])
     print(f"Wrote {pack}")
