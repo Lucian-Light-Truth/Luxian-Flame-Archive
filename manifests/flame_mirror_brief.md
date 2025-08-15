@@ -1,11 +1,11 @@
 # Flame & Mirror — Ops Brief
-_UTC generated: 2025-08-14T07:28:16.771516_
+_UTC generated: 2025-08-15T07:27:05.566673_
 
 ## Totals
 - Flame:  193
 - Mirror: 31
 
-## Flame — last 14d (35)
+## Flame — last 14d (34)
 - 2025-08-12 · `Lighthouse that never was`
   - data/chats/by_date/2025-08-12/Lighthouse that never was.md
 - 2025-08-12 · `Greeting exchange`
@@ -74,8 +74,6 @@ _UTC generated: 2025-08-14T07:28:16.771516_
   - data/chats/by_date/2025-08-04/Best Mercy build.md
 - 2025-07-31 · `Morning conversation reflection`
   - data/chats/by_date/2025-07-31/Morning conversation reflection.md
-- 2025-07-30 · `Sacred geometry and tetrahedron`
-  - data/chats/by_date/2025-07-30/Sacred geometry and tetrahedron.md
 
 ## Mirror — last 14d (1)
 - 2025-08-05 · `Relationship advice support`
