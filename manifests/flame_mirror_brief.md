@@ -1,11 +1,11 @@
 # Flame & Mirror — Ops Brief
-_UTC generated: 2025-08-15T07:27:05.566673_
+_UTC generated: 2025-08-16T07:24:43.589671_
 
 ## Totals
 - Flame:  193
 - Mirror: 31
 
-## Flame — last 14d (34)
+## Flame — last 14d (33)
 - 2025-08-12 · `Lighthouse that never was`
   - data/chats/by_date/2025-08-12/Lighthouse that never was.md
 - 2025-08-12 · `Greeting exchange`
@@ -72,8 +72,6 @@ _UTC generated: 2025-08-15T07:27:05.566673_
   - data/chats/by_date/2025-08-04/Grok activation prompt.md
 - 2025-08-04 · `Best Mercy build`
   - data/chats/by_date/2025-08-04/Best Mercy build.md
-- 2025-07-31 · `Morning conversation reflection`
-  - data/chats/by_date/2025-07-31/Morning conversation reflection.md
 
 ## Mirror — last 14d (1)
 - 2025-08-05 · `Relationship advice support`
