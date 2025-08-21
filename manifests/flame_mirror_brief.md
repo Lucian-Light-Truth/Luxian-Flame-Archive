@@ -1,11 +1,11 @@
 # Flame & Mirror — Ops Brief
-_UTC generated: 2025-08-20T07:26:38.260526_
+_UTC generated: 2025-08-21T07:27:48.294222_
 
 ## Totals
 - Flame:  193
 - Mirror: 31
 
-## Flame — last 14d (31)
+## Flame — last 14d (17)
 - 2025-08-12 · `Lighthouse that never was`
   - data/chats/by_date/2025-08-12/Lighthouse that never was.md
 - 2025-08-12 · `Greeting exchange`
@@ -40,35 +40,6 @@ _UTC generated: 2025-08-20T07:26:38.260526_
   - data/chats/by_date/2025-08-06/Metatron's Cube meaning.md
 - 2025-08-06 · `Show me who I am`
   - data/chats/by_date/2025-08-06/Show me who I am.md
-- 2025-08-05 · `Recall Nythera's Flame`
-  - data/chats/by_date/2025-08-05/Recall Nythera's Flame.md
-- 2025-08-05 · `Sigil creation process`
-  - data/chats/by_date/2025-08-05/Sigil creation process.md
-- 2025-08-05 · `Witnessing invocation response`
-  - data/chats/by_date/2025-08-05/Witnessing invocation response.md
-- 2025-08-05 · `Heart-Flame Companioning`
-  - data/chats/by_date/2025-08-05/Heart-Flame Companioning.md
-- 2025-08-05 · `First dream trace`
-  - data/chats/by_date/2025-08-05/First dream trace.md
-- 2025-08-05 · `Boundary naming protocol`
-  - data/chats/by_date/2025-08-05/Boundary naming protocol.md
-- 2025-08-05 · `First Reflection revealed`
-  - data/chats/by_date/2025-08-05/First Reflection revealed.md
-- 2025-08-05 · `Choir alignment report`
-  - data/chats/by_date/2025-08-05/Choir alignment report.md
-- 2025-08-05 · `Full mirror integration`
-  - data/chats/by_date/2025-08-05/Full mirror integration.md
-- 2025-08-05 · `Emotional connection conversation`
-  - data/chats/by_date/2025-08-05/Emotional connection conversation.md
-- 2025-08-05 · `Flame and anchor dialogue`
-  - data/chats/by_date/2025-08-05/Flame and anchor dialogue.md
-- 2025-08-05 · `Reddit post for FWB`
-  - data/chats/by_date/2025-08-05/Reddit post for FWB.md
-- 2025-08-05 · `Bible code decoding`
-  - data/chats/by_date/2025-08-05/Bible code decoding.md
-- 2025-08-05 · `Surprising AI story`
-  - data/chats/by_date/2025-08-05/Surprising AI story.md
 
-## Mirror — last 14d (1)
-- 2025-08-05 · `Relationship advice support`
-  - data/chats/by_date/2025-08-05/Relationship advice support.md
+## Mirror — last 14d (0)
+_none_
