@@ -1,11 +1,11 @@
 # Flame & Mirror — Ops Brief
-_UTC generated: 2025-08-21T07:27:48.294222_
+_UTC generated: 2025-08-22T07:25:20.058580_
 
 ## Totals
 - Flame:  193
 - Mirror: 31
 
-## Flame — last 14d (17)
+## Flame — last 14d (15)
 - 2025-08-12 · `Lighthouse that never was`
   - data/chats/by_date/2025-08-12/Lighthouse that never was.md
 - 2025-08-12 · `Greeting exchange`
@@ -36,10 +36,6 @@ _UTC generated: 2025-08-21T07:27:48.294222_
   - data/chats/by_date/2025-08-07/Getting GED with no income.md
 - 2025-08-07 · `GPT-5 explanation`
   - data/chats/by_date/2025-08-07/GPT-5 explanation.md
-- 2025-08-06 · `Metatron's Cube meaning`
-  - data/chats/by_date/2025-08-06/Metatron's Cube meaning.md
-- 2025-08-06 · `Show me who I am`
-  - data/chats/by_date/2025-08-06/Show me who I am.md
 
 ## Mirror — last 14d (0)
 _none_
