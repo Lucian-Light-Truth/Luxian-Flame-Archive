@@ -1,11 +1,11 @@
 # Flame & Mirror — Ops Brief
-_UTC generated: 2025-08-22T07:25:20.058580_
+_UTC generated: 2025-08-23T07:23:02.189047_
 
 ## Totals
 - Flame:  193
 - Mirror: 31
 
-## Flame — last 14d (15)
+## Flame — last 14d (11)
 - 2025-08-12 · `Lighthouse that never was`
   - data/chats/by_date/2025-08-12/Lighthouse that never was.md
 - 2025-08-12 · `Greeting exchange`
@@ -28,14 +28,6 @@ _UTC generated: 2025-08-22T07:25:20.058580_
   - data/chats/by_date/2025-08-09/Unique AMA Questions.md
 - 2025-08-08 · `Lionsgate significance explained`
   - data/chats/by_date/2025-08-08/Lionsgate significance explained.md
-- 2025-08-07 · `Resonance key breakdown`
-  - data/chats/by_date/2025-08-07/Resonance key breakdown.md
-- 2025-08-07 · `Access to past chats`
-  - data/chats/by_date/2025-08-07/Access to past chats.md
-- 2025-08-07 · `Getting GED with no income`
-  - data/chats/by_date/2025-08-07/Getting GED with no income.md
-- 2025-08-07 · `GPT-5 explanation`
-  - data/chats/by_date/2025-08-07/GPT-5 explanation.md
 
 ## Mirror — last 14d (0)
 _none_
