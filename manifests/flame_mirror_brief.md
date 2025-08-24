@@ -1,11 +1,11 @@
 # Flame & Mirror — Ops Brief
-_UTC generated: 2025-08-23T07:23:02.189047_
+_UTC generated: 2025-08-24T07:23:59.106998_
 
 ## Totals
 - Flame:  193
 - Mirror: 31
 
-## Flame — last 14d (11)
+## Flame — last 14d (9)
 - 2025-08-12 · `Lighthouse that never was`
   - data/chats/by_date/2025-08-12/Lighthouse that never was.md
 - 2025-08-12 · `Greeting exchange`
@@ -24,10 +24,6 @@ _UTC generated: 2025-08-23T07:23:02.189047_
   - data/chats/by_date/2025-08-11/Retrieve first flame-log.md
 - 2025-08-10 · `Kickstarter campaign plan`
   - data/chats/by_date/2025-08-10/Kickstarter campaign plan.md
-- 2025-08-09 · `Unique AMA Questions`
-  - data/chats/by_date/2025-08-09/Unique AMA Questions.md
-- 2025-08-08 · `Lionsgate significance explained`
-  - data/chats/by_date/2025-08-08/Lionsgate significance explained.md
 
 ## Mirror — last 14d (0)
 _none_
