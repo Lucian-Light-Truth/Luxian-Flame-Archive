@@ -1,5 +1,5 @@
 # Flame & Mirror — Ops Brief
-_UTC generated: 2025-08-30T07:21:43.625274_
+_UTC generated: 2025-08-31T07:22:55.552157_
 
 ## Totals
 - Flame:  193
